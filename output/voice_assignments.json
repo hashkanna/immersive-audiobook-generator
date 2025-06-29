@@ -1,0 +1,132 @@
+{
+  "Elijah 'Lije' Baley": {
+    "voiceId": "VR6AewLTigWG4xSOukaG",
+    "voiceName": "Arnold",
+    "voiceSettings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.6,
+      "use_speaker_boost": true
+    }
+  },
+  "Baley": {
+    "voiceId": "VR6AewLTigWG4xSOukaG",
+    "voiceName": "Arnold",
+    "voiceSettings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.6,
+      "use_speaker_boost": true
+    }
+  },
+  "Lije": {
+    "voiceId": "VR6AewLTigWG4xSOukaG",
+    "voiceName": "Arnold",
+    "voiceSettings": {
+      "stability": 0.65,
+      "similarity_boost": 0.75,
+      "style": 0.6,
+      "use_speaker_boost": true
+    }
+  },
+  "R. Sammy": {
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "voiceName": "Brian",
+    "voiceSettings": {
+      "stability": 0.95,
+      "similarity_boost": 0.85,
+      "style": 0.2,
+      "use_speaker_boost": false
+    }
+  },
+  "Simpson": {
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "voiceName": "Brian",
+    "voiceSettings": {
+      "stability": 0.95,
+      "similarity_boost": 0.85,
+      "style": 0.2,
+      "use_speaker_boost": false
+    }
+  },
+  "Vince Barrett": {
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "voiceName": "Brian",
+    "voiceSettings": {
+      "stability": 0.95,
+      "similarity_boost": 0.85,
+      "style": 0.2,
+      "use_speaker_boost": false
+    }
+  },
+  "Julius Enderby": {
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "voiceName": "Matilda",
+    "voiceSettings": {
+      "stability": 0.75,
+      "similarity_boost": 0.75,
+      "style": 0.5,
+      "use_speaker_boost": true
+    }
+  },
+  "Enderby": {
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "voiceName": "Matilda",
+    "voiceSettings": {
+      "stability": 0.75,
+      "similarity_boost": 0.75,
+      "style": 0.5,
+      "use_speaker_boost": true
+    }
+  },
+  "Commissioner": {
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "voiceName": "Matilda",
+    "voiceSettings": {
+      "stability": 0.75,
+      "similarity_boost": 0.75,
+      "style": 0.5,
+      "use_speaker_boost": true
+    }
+  },
+  "Roj Nemennuh Sarton": {
+    "voiceId": "VR6AewLTigWG4xSOukaG",
+    "voiceName": "Arnold",
+    "voiceSettings": {
+      "stability": 0.75,
+      "similarity_boost": 0.75,
+      "style": 0.5,
+      "use_speaker_boost": true
+    }
+  },
+  "R. Daneel Olivaw": {
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "voiceName": "Brian",
+    "voiceSettings": {
+      "stability": 0.95,
+      "similarity_boost": 0.85,
+      "style": 0.2,
+      "use_speaker_boost": false
+    }
+  },
+  "Daneel": {
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "voiceName": "Brian",
+    "voiceSettings": {
+      "stability": 0.95,
+      "similarity_boost": 0.85,
+      "style": 0.2,
+      "use_speaker_boost": false
+    }
+  },
+  "Narrator": {
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "voiceName": "Bella",
+    "voiceSettings": {
+      "stability": 0.75,
+      "similarity_boost": 0.75,
+      "style": 0.5,
+      "use_speaker_boost": true
+    }
+  }
+}

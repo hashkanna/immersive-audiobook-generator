@@ -13,7 +13,6 @@ secrets.json
 config.json
 
 # Output files
-output/
 dist/
 build/
 

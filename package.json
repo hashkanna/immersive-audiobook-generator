@@ -9,7 +9,8 @@
     "dev": "node --watch src/main.js",
     "modular": "node src/modularMain.js",
     "step": "node src/modularMain.js --start-from",
-    "force": "node src/modularMain.js --force-rerun"
+    "force": "node src/modularMain.js --force-rerun",
+    "build": "echo 'No dedicated build step for this project. Run npm start or npm run modular to generate the audiobook.'"
   },
   "dependencies": {
     "@elevenlabs/elevenlabs-js": "^2.4.1",

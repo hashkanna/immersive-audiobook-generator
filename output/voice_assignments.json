@@ -39,6 +39,7 @@
       "use_speaker_boost": false
     }
   },
+<<<<<<< HEAD
   "Julius Enderby": {
     "voiceId": "VR6AewLTigWG4xSOukaG",
     "voiceName": "Arnold",
@@ -77,6 +78,16 @@
       "similarity_boost": 0.75,
       "style": 0.5,
       "use_speaker_boost": true
+=======
+  "Simpson": {
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "voiceName": "Brian",
+    "voiceSettings": {
+      "stability": 0.95,
+      "similarity_boost": 0.85,
+      "style": 0.2,
+      "use_speaker_boost": false
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     }
   },
   "Vince Barrett": {
@@ -89,6 +100,39 @@
       "use_speaker_boost": false
     }
   },
+<<<<<<< HEAD
+=======
+  "Julius Enderby": {
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "voiceName": "Matilda",
+    "voiceSettings": {
+      "stability": 0.75,
+      "similarity_boost": 0.75,
+      "style": 0.5,
+      "use_speaker_boost": true
+    }
+  },
+  "Enderby": {
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "voiceName": "Matilda",
+    "voiceSettings": {
+      "stability": 0.75,
+      "similarity_boost": 0.75,
+      "style": 0.5,
+      "use_speaker_boost": true
+    }
+  },
+  "Commissioner": {
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "voiceName": "Matilda",
+    "voiceSettings": {
+      "stability": 0.75,
+      "similarity_boost": 0.75,
+      "style": 0.5,
+      "use_speaker_boost": true
+    }
+  },
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
   "Roj Nemennuh Sarton": {
     "voiceId": "VR6AewLTigWG4xSOukaG",
     "voiceName": "Arnold",

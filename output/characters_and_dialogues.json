@@ -2,6 +2,7 @@
   "characters": {
     "Elijah 'Lije' Baley": {
       "description": "A plain-clothes detective with a long, dour face and intensely brown eyes.",
+<<<<<<< HEAD
       "personality": "Irritable, pragmatic, and somewhat resistant to change, especially regarding robots.",
       "role": "Protagonist and detective tasked with solving a murder case involving Spacers."
     },
@@ -24,16 +25,49 @@
       "description": "A young man who lost his job to a robot.",
       "personality": "Desperate and struggling after losing his job.",
       "role": "A former employee of the department, now working on yeast farms."
+=======
+      "personality": "Irritable, skeptical of robots, pragmatic, and somewhat resistant to change.",
+      "role": "Protagonist, detective tasked with solving a murder case involving Spacers."
+    },
+    "R. Sammy": {
+      "description": "A robot with a blank demeanor.",
+      "personality": "Obedient, lacks initiative unless specifically instructed.",
+      "role": "Robot assistant, messenger for the Commissioner."
+    },
+    "Simpson": {
+      "description": "A colleague of Baley who works with merc-pool files.",
+      "personality": "Cynical, humorous, shares Baley's skepticism towards robots.",
+      "role": "Colleague of Baley, provides commentary on the situation with robots."
+    },
+    "Vince Barrett": {
+      "description": "A young man who lost his job to a robot.",
+      "personality": "Desperate, liked by others, considered bright.",
+      "role": "Represents the human cost of robot integration into the workforce."
+    },
+    "Julius Enderby": {
+      "description": "The Commissioner of Police, wears spectacles, has an undistinguished face.",
+      "personality": "Nervous, somewhat sentimental, values appearances, pragmatic.",
+      "role": "Baley's superior, responsible for assigning Baley the murder case."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     "Roj Nemennuh Sarton": {
       "description": "A Spacer who was murdered.",
       "personality": "Not much is revealed about his personality.",
+<<<<<<< HEAD
       "role": "The murder victim whose case Baley is assigned to solve."
     },
     "R. Daneel Olivaw": {
       "description": "A robot assigned as Baley's partner.",
       "personality": "Not described in this excerpt, but implied to be highly advanced.",
       "role": "Baley's robot partner in the murder investigation."
+=======
+      "role": "Victim of the murder case Baley is assigned to solve."
+    },
+    "R. Daneel Olivaw": {
+      "description": "A robot assigned as Baley's partner.",
+      "personality": "Not much is revealed in this excerpt.",
+      "role": "Baley's partner in the investigation, represents Spacer interests."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     }
   },
   "dialogues": [
@@ -50,7 +84,11 @@
     {
       "speaker": "Simpson",
       "text": "Boss wants you, Lije.",
+<<<<<<< HEAD
       "context": "Simpson reiterates the message from R. Sammy as Baley passes by."
+=======
+      "context": "Simpson confirms that the Commissioner wants to see Baley."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -59,13 +97,27 @@
     },
     {
       "speaker": "Simpson",
+<<<<<<< HEAD
       "text": "I’d kick R. Sammy’s behind if I weren’t afraid I’d break a leg. I saw Vince Barrett the other day.",
       "context": "Simpson jokes about R. Sammy and mentions seeing Vince Barrett."
+=======
+      "text": "I’d kick R. Sammy’s behind if I weren’t afraid I’d break a leg.",
+      "context": "Simpson jokes about the frustration of dealing with robots."
+    },
+    {
+      "speaker": "Simpson",
+      "text": "I saw Vince Barrett the other day.",
+      "context": "Simpson brings up a former colleague who lost his job to a robot."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Oh?",
+<<<<<<< HEAD
       "context": "Baley responds to Simpson's mention of Vince Barrett."
+=======
+      "context": "Baley shows interest in Simpson's comment."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Simpson",
@@ -75,17 +127,29 @@
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "It’s a thing we’re all living through.",
+<<<<<<< HEAD
       "context": "Baley comments on the situation of job loss due to robots."
+=======
+      "context": "Baley comments on the broader impact of robots on employment."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Sit down, Lije. Sit down.",
+<<<<<<< HEAD
       "context": "Enderby invites Baley to sit down in his office."
+=======
+      "context": "Enderby invites Baley to sit as they begin their conversation."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "How’s Jessie? And the boy?",
+<<<<<<< HEAD
       "context": "Enderby inquires about Baley's family."
+=======
+      "context": "Enderby makes small talk about Baley's family."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -100,22 +164,38 @@
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Commissioner, I wish you wouldn’t send R. Sammy out after me.",
+<<<<<<< HEAD
       "context": "Baley expresses discomfort with R. Sammy delivering messages."
+=======
+      "context": "Baley expresses his discomfort with R. Sammy delivering messages."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Well, you know how I feel about those things, Lije. But he’s been put here and I’ve got to use him for something.",
+<<<<<<< HEAD
       "context": "Enderby explains his position on using R. Sammy."
+=======
+      "context": "Enderby explains his position on using robots like R. Sammy."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "It’s uncomfortable, Commissioner. He tells me you want me and then he stands there. You know what I mean. I have to tell him to go or he just keeps on standing there.",
+<<<<<<< HEAD
       "context": "Baley describes the awkwardness of interacting with R. Sammy."
+=======
+      "context": "Baley elaborates on his discomfort with R. Sammy's behavior."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Oh, that’s my fault, Lije. I gave him the message to deliver and forgot to tell him specifically to get back to his job when he was through.",
+<<<<<<< HEAD
       "context": "Enderby admits to forgetting to give R. Sammy complete instructions."
+=======
+      "context": "Enderby acknowledges his oversight in instructing R. Sammy."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -125,12 +205,20 @@
     {
       "speaker": "Julius Enderby",
       "text": "Yes, Lije, but not for anything easy.",
+<<<<<<< HEAD
       "context": "Enderby indicates that the discussion will be about a difficult matter."
+=======
+      "context": "Enderby hints at the seriousness of the issue he needs to discuss."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "I had this arranged specially last year, Lije. I don’t think I’ve showed it to you before. Come over here and take a look. In the old days, all rooms had things like this. They were called 'windows.' Did you know that?",
+<<<<<<< HEAD
       "context": "Enderby shows Baley a window and discusses its historical significance."
+=======
+      "context": "Enderby shows Baley a window and talks about its historical significance."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -143,6 +231,7 @@
       "context": "Enderby invites Baley to look through the window."
     },
     {
+<<<<<<< HEAD
       "speaker": "Elijah 'Lije' Baley",
       "text": "Pardon me, Commissioner, but you’re wearing new glasses, aren’t you?",
       "context": "Baley notices something different about Enderby and asks about his glasses."
@@ -166,36 +255,66 @@
       "speaker": "Julius Enderby",
       "text": "This is the third time this month I’ve watched it rain. Quite a sight, don’t you think?",
       "context": "Enderby comments on the rarity and spectacle of rain."
+=======
+      "speaker": "Julius Enderby",
+      "text": "This is the third time this month I’ve watched it rain. Quite a sight, don’t you think?",
+      "context": "Enderby comments on the rarity and beauty of rain."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "It always seems a waste for all that water to come down on the city. It should restrict itself to the reservoirs.",
+<<<<<<< HEAD
       "context": "Baley expresses a practical view on rain."
+=======
+      "context": "Baley expresses a practical view on rain in the city."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Lije, you’re a modernist. That’s your trouble. In Medieval times, people lived in the open. I don’t mean on the farms only. I mean in the cities, too. Even in New York. When it rained, they didn’t think of it as waste. They gloried in it. They lived close to nature. It’s healthier, better. The troubles of modern life come from being divorced from nature. Read up on the Coal Century, sometimes.",
+<<<<<<< HEAD
       "context": "Enderby shares his views on modern life and historical living."
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Look, Julius, you’re talking about everything except what I came in here for, and it’s worrying me. What is it?",
       "context": "Baley urges Enderby to address the main issue."
+=======
+      "context": "Enderby shares his romanticized view of the past and nature."
+    },
+    {
+      "speaker": "Elijah 'Lije' Baley",
+      "text": "Look, Julius. Look, Julius, you’re talking about everything except what I came in here for, and it’s worrying me. What is it?",
+      "context": "Baley urges Enderby to get to the point of their meeting."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "I’ll get to it, Lije. Let me do it my way. It’s – it’s trouble.",
+<<<<<<< HEAD
       "context": "Enderby admits to the seriousness of the matter at hand."
+=======
+      "context": "Enderby admits there is a serious issue to discuss."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Sure. What isn’t on this planet? More trouble with the R’s?",
+<<<<<<< HEAD
       "context": "Baley speculates about the nature of the trouble."
+=======
+      "context": "Baley sarcastically comments on the constant troubles they face."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "In a way, yes, Lije. I stand here and wonder how much more trouble the old world can take. When I put in this window, I wasn’t just letting in the sky once in a while. I let in the City. I look at it and I wonder what will become of it in another century.",
+<<<<<<< HEAD
       "context": "Enderby reflects on the future of the world and the city."
+=======
+      "context": "Enderby reflects on the future and the challenges they face."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -205,7 +324,11 @@
     {
       "speaker": "Julius Enderby",
       "text": "I like the picture from here. It can just be made out in the gap between the two Brunswick Sectors. Low domes spread out. It’s the difference between us and the Spacers. We reach high and crowd close. With them, each family has a dome for itself. One family: one house. And land between each dome. Have you ever spoken to any of the Spacers, Lije?",
+<<<<<<< HEAD
       "context": "Enderby contrasts the living conditions of Earthmen and Spacers."
+=======
+      "context": "Enderby contrasts Earth cities with Spacer settlements."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -215,27 +338,68 @@
     {
       "speaker": "Julius Enderby",
       "text": "Yes, I remember. But then I’m getting philosophical. We and they. Different ways of life.",
+<<<<<<< HEAD
       "context": "Enderby muses on the cultural differences between Earthmen and Spacers."
+=======
+      "context": "Enderby reflects on the cultural differences between Earthmen and Spacers."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "All right. But what’s so surprising about it? You can’t spread eight million people over Earth in little domes. They’ve got space on their worlds, so let them live their way.",
+<<<<<<< HEAD
       "context": "Baley argues for the practicality of different living arrangements."
+=======
+      "context": "Baley comments on the impracticality of adopting Spacer living conditions on Earth."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Not everyone is that tolerant about differences in culture. Either among us or among the Spacers.",
+<<<<<<< HEAD
       "context": "Enderby points out the lack of cultural tolerance."
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "So three days ago, a Spacer died.",
       "context": "Baley learns about the murder of a Spacer."
+=======
+      "context": "Enderby notes the lack of cultural tolerance on both sides."
+    },
+    {
+      "speaker": "Elijah 'Lije' Baley",
+      "text": "All right So what?",
+      "context": "Baley prompts Enderby to continue with the main issue."
+    },
+    {
+      "speaker": "Julius Enderby",
+      "text": "So three days ago, a Spacer died.",
+      "context": "Enderby reveals the murder of a Spacer."
+    },
+    {
+      "speaker": "Elijah 'Lije' Baley",
+      "text": "Too bad. Something contagious, I hope. A virus. A cold, perhaps.",
+      "context": "Baley sarcastically comments on the death of a Spacer."
+    },
+    {
+      "speaker": "Julius Enderby",
+      "text": "What are you talking about?",
+      "context": "Enderby is confused by Baley's sarcasm."
+    },
+    {
+      "speaker": "Elijah 'Lije' Baley",
+      "text": "I’m just talking. What did he die of?",
+      "context": "Baley asks for details about the Spacer's death."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "He died of a missing chest. Someone had used a blaster on him.",
+<<<<<<< HEAD
       "context": "Enderby reveals the cause of the Spacer's death."
+=======
+      "context": "Enderby reveals the Spacer was murdered with a blaster."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -245,62 +409,110 @@
     {
       "speaker": "Julius Enderby",
       "text": "I’m talking about murder. You’re a plain-clothes man. You know what murder is.",
+<<<<<<< HEAD
       "context": "Enderby confirms the murder and Baley's role as a detective."
+=======
+      "context": "Enderby confirms the seriousness of the situation."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "But a Spacer! Three days ago?",
+<<<<<<< HEAD
       "context": "Baley questions the timing and victim of the murder."
+=======
+      "context": "Baley is incredulous about the murder of a Spacer."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Yes.",
+<<<<<<< HEAD
       "context": "Enderby confirms the details of the murder."
+=======
+      "context": "Enderby confirms the timing of the murder."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "But who did it? How?",
+<<<<<<< HEAD
       "context": "Baley seeks more information about the murder."
+=======
+      "context": "Baley questions the details of the murder."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "The Spacers say it was an Earthman.",
+<<<<<<< HEAD
       "context": "Enderby shares the Spacers' accusation."
+=======
+      "context": "Enderby reveals the Spacers' accusation against an Earthman."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "It can’t be.",
+<<<<<<< HEAD
       "context": "Baley expresses disbelief at the accusation."
+=======
+      "context": "Baley is in disbelief about the accusation."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Why not? You don’t like the Spacers. I don’t. Who on Earth does? Someone didn’t like them a little too much, that’s all.",
+<<<<<<< HEAD
       "context": "Enderby suggests a motive for the murder."
+=======
+      "context": "Enderby explains the possible motive for the murder."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Sure, but—",
+<<<<<<< HEAD
       "context": "Baley begins to argue against the accusation."
+=======
+      "context": "Baley begins to question further."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "There was the fire at the Los Angeles factories. There was the Berlin R-smashing. There were the riots in Shanghai.",
+<<<<<<< HEAD
       "context": "Enderby lists recent events indicating rising tensions."
+=======
+      "context": "Enderby lists recent incidents of unrest involving robots."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "All right.",
+<<<<<<< HEAD
       "context": "Baley acknowledges the context of unrest."
+=======
+      "context": "Baley acknowledges the pattern of unrest."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "It all points to rising discontent. Maybe to some sort of organization.",
+<<<<<<< HEAD
       "context": "Enderby suggests the possibility of organized resistance."
+=======
+      "context": "Enderby suggests a possible organized resistance."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Commissioner, I don’t get this. Are you testing me for some reason?",
+<<<<<<< HEAD
       "context": "Baley questions the purpose of the conversation."
+=======
+      "context": "Baley questions Enderby's motives for sharing this information."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
@@ -320,7 +532,11 @@
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Oh? And what do the Terries have to say?",
+<<<<<<< HEAD
       "context": "Baley inquires about the Terrestrial Bureau of Investigation's stance."
+=======
+      "context": "Baley inquires about the TBI's response."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
@@ -330,22 +546,39 @@
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "But with extraterritorial rights.",
+<<<<<<< HEAD
       "context": "Baley points out the complexity of the jurisdiction."
+=======
+      "context": "Baley points out the Spacers' legal rights."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "I know. I’m coming to that.",
+<<<<<<< HEAD
       "context": "Enderby acknowledges the complexity and continues."
+=======
+      "context": "Enderby acknowledges the complexity of the situation."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "The Spacers can run the show.",
+<<<<<<< HEAD
       "context": "Enderby acknowledges the Spacers' potential control over the investigation."
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Wait a minute, Lije. Don’t rush me. I’m trying to talk this over, friend to friend. I want you to know my position. I was there when the news broke. I had an appointment with him – with Roj Nemennuh Sarton.",
       "context": "Enderby shares his personal involvement with the case."
+=======
+      "context": "Enderby admits the Spacers' influence over the investigation."
+    },
+    {
+      "speaker": "Elijah 'Lije' Baley",
+      "text": "Wait a minute, Lije, Don’t rush me. I’m trying to talk this over, friend to friend. I want you to know my position. I was there when the news broke. I had an appointment with him – with Roj Nemennuh Sarton.",
+      "context": "Enderby shares his personal involvement in the case."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -355,11 +588,16 @@
     {
       "speaker": "Julius Enderby",
       "text": "The victim.",
+<<<<<<< HEAD
       "context": "Enderby confirms the victim's identity."
+=======
+      "context": "Enderby confirms Roj Nemennuh Sarton as the victim."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Five minutes more and I, myself, would have discovered the body. What a shock that would have been. As it was, it was brutal, brutal. They met me and told me. It started a three-day nightmare, Lije. That on top of having everything blur on me and having no time to replace my glasses for days. That won’t happen again, at least. I’ve ordered three pairs.",
+<<<<<<< HEAD
       "context": "Enderby recounts the events surrounding the discovery of the murder."
     },
     {
@@ -396,21 +634,37 @@
       "speaker": "Julius Enderby",
       "text": "And it’s not good, Lije. Every one of us stands the chance of being out of a job.",
       "context": "Enderby warns of the potential consequences for the department."
+=======
+      "context": "Enderby recounts his experience upon learning of the murder."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Replace us all? Nuts. The trained men to do it with don’t exist.",
+<<<<<<< HEAD
       "context": "Baley dismisses the idea of replacing the department staff."
     },
     {
       "speaker": "Julius Enderby",
       "text": "R’s. They exist.",
       "context": "Enderby suggests robots as replacements for human staff."
+=======
+      "context": "Baley dismisses the idea of robots replacing all human workers."
+    },
+    {
+      "speaker": "Julius Enderby",
+      "text": "R’s, They exist.",
+      "context": "Enderby insists that robots could replace human workers."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "What?",
+<<<<<<< HEAD
       "context": "Baley is surprised by Enderby's suggestion."
+=======
+      "context": "Baley is surprised by Enderby's assertion."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
@@ -420,7 +674,11 @@
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "All right.",
+<<<<<<< HEAD
       "context": "Baley acknowledges the possibility of being replaced by robots."
+=======
+      "context": "Baley acknowledges the threat of robot replacement."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
@@ -430,12 +688,20 @@
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "When did all this replacement business come up?",
+<<<<<<< HEAD
       "context": "Baley inquires about the timeline of robot replacements."
+=======
+      "context": "Baley questions the timing of the robot replacement issue."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Look, you’re being naïve, Lije. It’s been happening all along. It’s been happening for twenty-five years, ever since the Spacers came. You know that. It’s just beginning to reach higher, that’s all. If we muff this case, it’s a big, long step toward the point where we can stop looking forward to collecting our pension-tab booklets. On the other hand, Lije, if we handle the matter well, it can shove that point far into the future. And it would be a particular break for you.",
+<<<<<<< HEAD
       "context": "Enderby explains the long-standing trend of robot replacements."
+=======
+      "context": "Enderby explains the long-term implications of robot integration."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -445,7 +711,11 @@
     {
       "speaker": "Julius Enderby",
       "text": "You’ll be the operative in charge, Lije.",
+<<<<<<< HEAD
       "context": "Enderby offers Baley a leadership role in the investigation."
+=======
+      "context": "Enderby offers Baley the lead role in the investigation."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -455,12 +725,20 @@
     {
       "speaker": "Julius Enderby",
       "text": "You want a C-6 rating, don’t you?",
+<<<<<<< HEAD
       "context": "Enderby offers Baley a potential promotion."
+=======
+      "context": "Enderby offers Baley a potential promotion as motivation."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "I want it. Sure. Why wouldn’t I? But what would I get if I couldn’t break the case?",
+<<<<<<< HEAD
       "context": "Baley considers the risks and rewards of the promotion."
+=======
+      "context": "Baley questions the risks of taking on the case."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
@@ -470,7 +748,11 @@
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "But there are half a dozen men with higher ratings in my department section. Why should they be passed over?",
+<<<<<<< HEAD
       "context": "Baley questions why he is being chosen over others."
+=======
+      "context": "Baley questions why he was chosen over others."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
@@ -485,17 +767,29 @@
     {
       "speaker": "Julius Enderby",
       "text": "The second reason is that I think you’re my friend. I need a favor.",
+<<<<<<< HEAD
       "context": "Enderby introduces a request for a favor."
+=======
+      "context": "Enderby reveals his need for Baley's help."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "What sort of favor?",
+<<<<<<< HEAD
       "context": "Baley asks for details about the favor."
+=======
+      "context": "Baley inquires about the favor Enderby needs."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "I want you to take on a Spacer partner in this deal. That was the condition the Spacers made. They’ve agreed not to report the murder; they’ve agreed to leave the investigation in our hands. In return, they insist one of their own agents be in on the deal, the whole deal.",
+<<<<<<< HEAD
       "context": "Enderby explains the condition set by the Spacers."
+=======
+      "context": "Enderby explains the conditions set by the Spacers for the investigation."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -505,61 +799,106 @@
     {
       "speaker": "Julius Enderby",
       "text": "Surely you see their point. If this is mishandled, a number of them will be in trouble with their own governments. I’ll give them the benefit of the doubt, Lije. I’m willing to believe they mean well.",
+<<<<<<< HEAD
       "context": "Enderby justifies the Spacers' condition."
+=======
+      "context": "Enderby justifies the Spacers' conditions."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "I’m sure they do, Commissioner. That’s the trouble with them.",
+<<<<<<< HEAD
       "context": "Baley expresses skepticism about the Spacers' intentions."
+=======
+      "context": "Baley sarcastically comments on the Spacers' intentions."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Are you willing to take on a Spacer partner, Lije?",
+<<<<<<< HEAD
       "context": "Enderby asks Baley to accept the Spacer partner."
+=======
+      "context": "Enderby asks Baley if he will accept the Spacer partner."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "You’re asking that as a favor?",
+<<<<<<< HEAD
       "context": "Baley confirms the nature of the request."
+=======
+      "context": "Baley confirms the nature of Enderby's request."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Yes, I’m asking you to take the job with all the conditions the Spacers have set up.",
+<<<<<<< HEAD
       "context": "Enderby reiterates the conditions of the job."
+=======
+      "context": "Enderby reiterates his request for Baley to accept the conditions."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "I’ll take a Spacer partner, Commissioner.",
+<<<<<<< HEAD
       "context": "Baley agrees to the condition."
+=======
+      "context": "Baley agrees to work with a Spacer partner."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "Thanks, Lije. He’ll have to live with you.",
+<<<<<<< HEAD
       "context": "Enderby adds a further condition about the Spacer partner."
+=======
+      "context": "Enderby informs Baley of the living arrangement with the Spacer partner."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Oh, now, hold on.",
+<<<<<<< HEAD
       "context": "Baley protests the living arrangement."
+=======
+      "context": "Baley objects to the living arrangement."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "I know. I know. But you’ve got a large apartment, Lije. Three rooms. Only one child. You can put him up. He’ll be no trouble. No trouble at all. And it’s necessary.",
+<<<<<<< HEAD
       "context": "Enderby insists on the necessity of the arrangement."
+=======
+      "context": "Enderby tries to reassure Baley about the arrangement."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Jessie won’t like it. I know that.",
+<<<<<<< HEAD
       "context": "Baley anticipates his wife's reaction."
+=======
+      "context": "Baley anticipates his wife's reaction to the arrangement."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "You tell Jessie that if you do this for me, I’ll do what I can when this is all over to jump you a grade. C-7, Lije. C-7!",
+<<<<<<< HEAD
       "context": "Enderby offers further incentive for Baley to agree."
+=======
+      "context": "Enderby offers Baley further incentive to accept the arrangement."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "All right, Commissioner, it’s a deal.",
+<<<<<<< HEAD
       "context": "Baley agrees to the arrangement."
     },
     {
@@ -571,26 +910,50 @@
       "speaker": "Julius Enderby",
       "text": "One more item.",
       "context": "Enderby confirms there is additional information."
+=======
+      "context": "Baley agrees to the terms and conditions."
+    },
+    {
+      "speaker": "Julius Enderby",
+      "text": "There’s something else?",
+      "context": "Enderby indicates there is more to discuss."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Which is?",
+<<<<<<< HEAD
       "context": "Baley asks for the final piece of information."
+=======
+      "context": "Baley prompts Enderby to continue."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "The name of your partner.",
+<<<<<<< HEAD
       "context": "Enderby reveals the identity of Baley's partner."
+=======
+      "context": "Enderby reveals there is more information about the partner."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "What difference does that make?",
+<<<<<<< HEAD
       "context": "Baley questions the significance of the partner's name."
+=======
+      "context": "Baley questions the relevance of the partner's name."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "The Spacers have peculiar ways. The partner they’re supplying isn’t – isn’t …",
+<<<<<<< HEAD
       "context": "Enderby hesitates to reveal the partner's nature."
+=======
+      "context": "Enderby hesitates to reveal the nature of the partner."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -605,12 +968,20 @@
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "Stay at my apartment? A thing like that?",
+<<<<<<< HEAD
       "context": "Baley is shocked by the arrangement."
+=======
+      "context": "Baley expresses disbelief at the arrangement."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "As a friend, please!",
+<<<<<<< HEAD
       "context": "Enderby appeals to Baley's friendship."
+=======
+      "context": "Enderby appeals to Baley's sense of friendship."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -620,17 +991,29 @@
     {
       "speaker": "Julius Enderby",
       "text": "Lije, I can’t trust anyone else in this. Do I have to spell it out for you? We’ve got to work with the Spacers. We’ve got to succeed, if we’re to keep the indemnity ships away from Earth. But we can’t succeed just any old way. You’ll be partnered with one of their R’s. If he breaks the case, if he can report that we’re incompetent, we’re ruined, anyway. We, as a department. You see that, don’t you? So you’ve got a delicate job on your hands. You’ve got to work with him, but see to it that you solve the case and not he. Understand?",
+<<<<<<< HEAD
       "context": "Enderby explains the stakes and the delicate nature of the task."
+=======
+      "context": "Enderby explains the stakes and the need for Baley to take the lead."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "You mean co-operate with him 100 per cent, except that I cut his throat? Pat him on the back with a knife in my hand?",
+<<<<<<< HEAD
       "context": "Baley summarizes the difficult balancing act required."
+=======
+      "context": "Baley summarizes the delicate balance he must maintain."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Julius Enderby",
       "text": "What else can we do? There’s no other way out.",
+<<<<<<< HEAD
       "context": "Enderby affirms the necessity of the approach."
+=======
+      "context": "Enderby confirms the necessity of the arrangement."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
@@ -655,12 +1038,20 @@
     {
       "speaker": "Julius Enderby",
       "text": "R. Daneel Olivaw.",
+<<<<<<< HEAD
       "context": "Enderby reveals the name of Baley's robot partner."
+=======
+      "context": "Enderby reveals the name of Baley's partner."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "speaker": "Elijah 'Lije' Baley",
       "text": "This isn’t a time for euphemism, Commissioner. I’m taking the job, so let’s use his full name. Robot Daneel Olivaw.",
+<<<<<<< HEAD
       "context": "Baley acknowledges the nature of his partner."
+=======
+      "context": "Baley insists on acknowledging the partner as a robot."
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     }
   ]
 }

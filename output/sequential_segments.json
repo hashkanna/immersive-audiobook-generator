@@ -205,440 +205,736 @@
       "order": 33
     },
     {
+<<<<<<< HEAD
       "type": "dialogue",
       "text": "I’ve heard of them.",
       "speaker": "Baley",
       "order": 34
+=======
+      "type": "narration",
+      "text": "Baley knew that very well, having viewed many historical novels.",
+      "speaker": "Narrator",
+      "order": 34
+    },
+    {
+      "type": "dialogue",
+      "text": "I’ve heard of them.",
+      "speaker": "Baley",
+      "order": 35
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Come here.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 35
+=======
+      "order": 36
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Baley squirmed a bit, but did as he was told. There was something indecent about the exposure of the privacy of a room to the outside world. Sometimes the Commissioner carried his affectation of Medievalism to a rather foolish extreme. Like his glasses, Baley thought. That was it! That was what made him look wrong! Baley said,",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 36
+=======
+      "order": 37
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Pardon me, Commissioner, but you’re wearing new glasses, aren’t you?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 37
+=======
+      "order": 38
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "The Commissioner stared at him in mild surprise, took off his glasses, looked at them and then at Baley. Without his glasses, his round face seemed rounder and his chin a trifle more pronounced. He looked vaguer, too, as his eyes failed to focus properly. He said,",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 38
+=======
+      "order": 39
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Yes.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 39
+=======
+      "order": 40
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "He put his glasses back on his nose, then added with real anger,",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 40
+=======
+      "order": 41
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I broke my old ones three days ago. What with one thing or another I wasn’t able to replace them till this morning. Lije, those three days were hell.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 41
+=======
+      "order": 42
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "On account of the glasses?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 42
+=======
+      "order": 43
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "And other things, too. I’m getting to that.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 43
+=======
+      "order": 44
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "He turned to the window and so did Baley. With mild shock, Baley realized it was raining. For a minute, he was lost in the spectacle of water dropping from the sky, while the Commissioner exuded a kind of pride as though the phenomenon were a matter of his own arranging.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 44
+=======
+      "order": 45
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "This is the third time this month I’ve watched it rain. Quite a sight, don’t you think?",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 45
+=======
+      "order": 46
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Against his will, Baley had to admit to himself that it was impressive. In his forty-two years he had rarely seen rain, or any of the phenomena of nature, for that matter. He said,",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 46
+=======
+      "order": 47
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "It always seems a waste for all that water to come down on the city. It should restrict itself to the reservoirs.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 47
+=======
+      "order": 48
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Lije, you’re a modernist. That’s your trouble. In Medieval times, people lived in the open. I don’t mean on the farms only. I mean in the cities, too. Even in New York. When it rained, they didn’t think of it as waste. They gloried in it. They lived close to nature. It’s healthier, better. The troubles of modern life come from being divorced from nature. Read up on the Coal Century, sometimes.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 48
+=======
+      "order": 49
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Baley had. He had heard many people moaning about the invention of the atomic pile. He moaned about it himself when things went wrong, or when he got tired. Moaning like that was a built-in facet of human nature. Back in the Coal Century, people moaned about the invention of the steam engine. In one of Shakespeare’s plays, a character moaned about the invention of gunpowder. A thousand years in the future, they’d be moaning about the invention of the positronic brain. The hell with it. He said, grimly,",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 49
+=======
+      "order": 50
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Look, Julius. Look, Julius, you’re talking about everything except what I came in here for, and it’s worrying me. What is it?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 50
+=======
+      "order": 51
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I’ll get to it, Lije. Let me do it my way. It’s – it’s trouble.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 51
+=======
+      "order": 52
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Sure. What isn’t on this planet? More trouble with the R’s?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 52
+=======
+      "order": 53
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "In a way, yes, Lije. I stand here and wonder how much more trouble the old world can take. When I put in this window, I wasn’t just letting in the sky once in a while. I let in the City. I look at it and I wonder what will become of it in another century.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 53
+=======
+      "order": 54
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Baley felt repelled by the other’s sentimentality, but he found himself staring outward in fascination. Even dimmed by the weather, the City was a tremendous thing to see. The Police Department was in the upper levels of City Hall, and City Hall reached high. From the Commissioner’s window, the neighboring towers fell short and the tops were visible. They were so many fingers, groping upward. Their walls were blank, featureless. They were the outer shells of human hives.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 54
+=======
+      "order": 55
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "In a way, I’m sorry it’s raining. We can’t see Spacetown.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 55
+=======
+      "order": 56
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Baley looked westward, but it was as the Commissioner said. The horizon closed down. New York’s towers grew misty and came to an end against blank whiteness.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 56
+=======
+      "order": 57
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I know what Spacetown is like.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 57
+=======
+      "order": 58
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I like the picture from here. It can just be made out in the gap between the two Brunswick Sectors. Low domes spread out. It’s the difference between us and the Spacers. We reach high and crowd close. With them, each family has a dome for itself. One family: one house. And land between each dome. Have you ever spoken to any of the Spacers, Lije?",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 58
+=======
+      "order": 59
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "A few times. About a month ago, I spoke to one right here on your intercom.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 59
+=======
+      "order": 60
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Yes, I remember. But then I’m getting philosophical. We and they. Different ways of life.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 60
+=======
+      "order": 61
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Baley’s stomach was beginning to constrict a little. The more devious the Commissioner’s approach, the deadlier he thought might be the conclusion. He said,",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 61
+=======
+      "order": 62
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "All right. But what’s so surprising about it? You can’t spread eight million people over Earth in little domes. They’ve got space on their worlds, so let them live their way.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 62
+=======
+      "order": 63
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "The Commissioner walked to his chair and sat down. His eyes looked unblinkingly at Baley, shrunken a bit by the concave lenses in his spectacles. He said,",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 63
+=======
+      "order": 64
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Not everyone is that tolerant about differences in culture. Either among us or among the Spacers.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 64
+=======
+      "order": 65
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "All right So what?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 65
+=======
+      "order": 66
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "So three days ago, a Spacer died.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 66
+=======
+      "order": 67
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Now it was coming. The corners of Baley’s thin lips raised a trifle, but the effect upon his long, sad face was unnoticeable. He said,",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 67
+=======
+      "order": 68
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Too bad. Something contagious, I hope. A virus. A cold, perhaps.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 68
+=======
+      "order": 69
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "The Commissioner looked startled.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 69
+=======
+      "order": 70
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "What are you talking about?",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 70
+=======
+      "order": 71
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Baley didn’t care to explain. The precision with which the Spacers had bred disease out of their societies was well known. The care with which they avoided, as far as possible, contact with disease-riddled Earthmen was even better known. But then, sarcasm was lost on the Commissioner. Baley said,",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 71
+=======
+      "order": 72
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I’m just talking. What did he die of?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 72
+=======
+      "order": 73
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "He turned back to the window. The Commissioner said,",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 73
+=======
+      "order": 74
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "He died of a missing chest. Someone had used a blaster on him.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 74
+=======
+      "order": 75
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Baley’s back grew rigid. He said, without turning,",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 75
+=======
+      "order": 76
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "What are you talking about?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 76
+=======
+      "order": 77
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I’m talking about murder. You’re a plain-clothes man. You know what murder is.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 77
+=======
+      "order": 78
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "And now Baley turned.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 78
+=======
+      "order": 79
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "But a Spacer! Three days ago?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 79
+=======
+      "order": 80
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Yes.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 80
+=======
+      "order": 81
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "But who did it? How?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 81
+=======
+      "order": 82
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "The Spacers say it was an Earthman.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 82
+=======
+      "order": 83
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "It can’t be.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 83
+=======
+      "order": 84
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Why not? You don’t like the Spacers. I don’t. Who on Earth does? Someone didn’t like them a little too much, that’s all.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 84
+=======
+      "order": 85
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Sure, but—",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 85
+=======
+      "order": 86
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "There was the fire at the Los Angeles factories. There was the Berlin R-smashing. There were the riots in Shanghai.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 86
+=======
+      "order": 87
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "All right.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 87
+=======
+      "order": 88
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "It all points to rising discontent. Maybe to some sort of organization.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 88
+=======
+      "order": 89
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Commissioner, I don’t get this. Are you testing me for some reason?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 89
+=======
+      "order": 90
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "What?",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 90
+=======
+      "order": 91
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "The Commissioner looked honestly bewildered. Baley watched him.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 91
+=======
+      "order": 92
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Three days ago a Spacer was murdered and the Spacers think the murderer is an Earthman. Till now, nothing’s come out. Is that right? Commissioner, that’s unbelievable. Jehoshaphat, Commissioner, a thing like this would blow New York off the face of the planet if it really happened.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 92
+=======
+      "order": 93
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "It’s not as simple as that. Look, Lije, I’ve been out three days. I’ve been in conference with the Mayor. I’ve been out to Spacetown. I’ve been down in Washington, talking to the Terrestrial Bureau of Investigation.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 93
+=======
+      "order": 94
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Oh? And what do the Terries have to say?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 94
+=======
+      "order": 95
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "They say it’s our baby. It’s inside city limits. Spacetown is under New York jurisdiction.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 95
+=======
+      "order": 96
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "But with extraterritorial rights.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 96
+=======
+      "order": 97
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I know. I’m coming to that.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 97
+=======
+      "order": 98
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "The Commissioner’s eyes fell away from Baley’s flinty stare. He seemed to regard himself as having been rudely demoted to the position of Baley’s underling, and Baley behaved as though he accepted the fact.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 98
+=======
+      "order": 99
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "The Spacers can run the show.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 99
+=======
+      "order": 100
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Wait a minute, Lije, don’t rush me. I’m trying to talk this over, friend to friend. I want you to know my position. I was there when the news broke. I had an appointment with him – with Roj Nemennuh Sarton.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 100
+=======
+      "order": 101
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "The victim?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 101
+=======
+      "order": 102
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "The victim.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 102
+=======
+      "order": 103
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "The Commissioner groaned.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 103
+=======
+      "order": 104
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Five minutes more and I, myself, would have discovered the body. What a shock that would have been. As it was, it was brutal, brutal. They met me and told me. It started a three-day nightmare, Lije. That on top of having everything blur on me and having no time to replace my glasses for days. That won’t happen again, at least. I’ve ordered three pairs.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 104
     },
     {
       "type": "narration",
       "text": "Baley considered the picture he conjured up of the event. He could see the tall, fair figures of the Spacers approaching the Commissioner with the news and breaking it to him in their unvarnished emotionless way. Julius would remove his glasses and polish them. Inevitably, under the impact of the event he would drop them, then look down at the broken remnants with a quiver of his soft, full lips. Baley was quite certain that for five minutes anyway, the Commissioner was much more disturbed over his glasses than over the murder.",
       "speaker": "Narrator",
+=======
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
       "order": 105
     },
     {
       "type": "narration",
+<<<<<<< HEAD
       "text": "The Commissioner was saying,",
+=======
+      "text": "Baley considered the picture he conjured up of the event. He could see the tall, fair figures of the Spacers approaching the Commissioner with the news and breaking it to him in their unvarnished emotionless way. Julius would remove his glasses and polish them. Inevitably, under the impact of the event he would drop them, then look down at the broken remnants with a quiver of his soft, full lips. Baley was quite certain that for five minutes anyway, the Commissioner was much more disturbed over his glasses than over the murder. The Commissioner was saying,",
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
       "speaker": "Narrator",
       "order": 106
     },
@@ -686,7 +982,11 @@
     },
     {
       "type": "dialogue",
+<<<<<<< HEAD
       "text": "The TBI won’t touch it. This is hot and it’s in our lap.",
+=======
+      "text": "The TBI won’t touch it This is hot and it’s in our lap.",
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
       "speaker": "Enderby",
       "order": 114
     },
@@ -829,6 +1129,7 @@
       "order": 137
     },
     {
+<<<<<<< HEAD
       "type": "narration",
       "text": "Baley said, without warmth.",
       "speaker": "Narrator",
@@ -839,246 +1140,412 @@
       "text": "The second reason is that I think you’re my friend. I need a favor.",
       "speaker": "Enderby",
       "order": 139
+=======
+      "type": "dialogue",
+      "text": "The second reason is that I think you’re my friend. I need a favor.",
+      "speaker": "Enderby",
+      "order": 138
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "What sort of favor?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 140
+=======
+      "order": 139
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I want you to take on a Spacer partner in this deal. That was the condition the Spacers made. They’ve agreed not to report the murder; they’ve agreed to leave the investigation in our hands. In return, they insist one of their own agents be in on the deal, the whole deal.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 141
+=======
+      "order": 140
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "It sounds like they don’t trust us altogether.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 142
+=======
+      "order": 141
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Surely you see their point. If this is mishandled, a number of them will be in trouble with their own governments. I’ll give them the benefit of the doubt, Lije. I’m willing to believe they mean well.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 143
+=======
+      "order": 142
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I’m sure they do, Commissioner. That’s the trouble with them.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 144
+=======
+      "order": 143
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "The Commissioner looked blank at that, but went on.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 145
+=======
+      "order": 144
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Are you willing to take on a Spacer partner, Lije?",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 146
+=======
+      "order": 145
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "You’re asking that as a favor?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 147
+=======
+      "order": 146
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Yes, I’m asking you to take the job with all the conditions the Spacers have set up.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 148
+=======
+      "order": 147
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I’ll take a Spacer partner, Commissioner.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 149
+=======
+      "order": 148
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Thanks, Lije. He’ll have to live with you.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 150
+=======
+      "order": 149
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Oh, now, hold on.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 151
+=======
+      "order": 150
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I know. I know. But you’ve got a large apartment, Lije. Three rooms. Only one child. You can put him up. He’ll be no trouble. No trouble at all. And it’s necessary.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 152
+=======
+      "order": 151
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Jessie won’t like it. I know that.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 153
+=======
+      "order": 152
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "You tell Jessie, that if you do this for me, I’ll do what I can when this is all over to jump you a grade. C-7, Lije. C-7!",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 154
+=======
+      "order": 153
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "All right, Commissioner, it’s a deal.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 155
+=======
+      "order": 154
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Baley half rose from his chair, caught the look on Enderby’s face, and sat down again.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 156
+=======
+      "order": 155
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "There’s something else?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 157
+=======
+      "order": 156
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Slowly, the Commissioner nodded.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 158
+=======
+      "order": 157
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "One more item.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 159
+=======
+      "order": 158
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Which is?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 160
+=======
+      "order": 159
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "The name of your partner.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 161
+=======
+      "order": 160
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "What difference does that make?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 162
+=======
+      "order": 161
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "The Spacers have peculiar ways. The partner they’re supplying isn’t – isn’t …",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 163
+=======
+      "order": 162
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Just a minute!",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 164
+=======
+      "order": 163
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "You’ve got to, Lije. You’ve got to. There’s no way out.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 165
+=======
+      "order": 164
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Stay at my apartment? A thing like that?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 166
+=======
+      "order": 165
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "As a friend, please!",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 167
+=======
+      "order": 166
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "No. No!",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 168
+=======
+      "order": 167
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "Lije, I can’t trust anyone else in this. Do I have to spell it out for you? We’ve got to work with the Spacers. We’ve got to succeed, if we’re to keep the indemnity ships away from Earth. But we can’t succeed just any old way. You’ll be partnered with one of their R’s. If he breaks the case, if he can report that we’re incompetent, we’re ruined, anyway. We, as a department. You see that, don’t you? So you’ve got a delicate job on your hands. You’ve got to work with him, but see to it that you solve the case and not he. Understand?",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 169
+=======
+      "order": 168
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "You mean co-operate with him 100 per cent, except that I cut his throat? Pat him on the back with a knife in my hand?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 170
+=======
+      "order": 169
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "What else can we do? There’s no other way out.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 171
+=======
+      "order": 170
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "Lije Baley stood irresolute.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 172
+=======
+      "order": 171
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I don’t know what Jessie will say.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 173
+=======
+      "order": 172
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "I’ll talk to her, if you want me to.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 174
+=======
+      "order": 173
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "No, Commissioner.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 175
+=======
+      "order": 174
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "narration",
       "text": "He drew a deep, sighing breath.",
       "speaker": "Narrator",
+<<<<<<< HEAD
       "order": 176
+=======
+      "order": 175
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "What’s my partner’s name?",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 177
+=======
+      "order": 176
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "R. Daneel Olivaw.",
       "speaker": "Enderby",
+<<<<<<< HEAD
       "order": 178
+=======
+      "order": 177
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     },
     {
       "type": "dialogue",
       "text": "This isn’t a time for euphemism, Commissioner. I’m taking the job, so let’s use his full name. Robot Daneel Olivaw.",
       "speaker": "Baley",
+<<<<<<< HEAD
       "order": 179
+=======
+      "order": 178
+>>>>>>> 1eeb4a2e7bcd5b349f4321144cd2806b6906e998
     }
   ]
 }

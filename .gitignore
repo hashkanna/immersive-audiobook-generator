@@ -17,7 +17,6 @@ dist/
 build/
 
 # Audio files (can be large)
-*.mp3
 *.wav
 *.m4a
 *.aac

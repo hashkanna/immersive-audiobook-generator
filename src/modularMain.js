@@ -295,6 +295,27 @@ class ModularAudiobookGenerator {
     return soundEffects;
   }
 
+  async step9_combineWithSoundEffects(audioGenerator, soundEffects, forceRerun = false) {
+    console.log('🎬 Step 9: Combining audiobook with sound effects...');
+    
+    const outputFile = 'audiobook_with_effects.mp3';
+    if (!forceRerun && await this.fileExists(outputFile)) {
+      console.log('   ✅ Immersive audiobook already exists');
+      return;
+    }
+
+    // Load sound effects manifest
+    const soundEffectsManifest = await this.loadData(this.stepFiles.soundEffects);
+    if (!soundEffectsManifest || !soundEffectsManifest.effects || soundEffectsManifest.effects.length === 0) {
+      console.log('   ⚠️  No sound effects found, skipping combination step');
+      return;
+    }
+
+    // Use the AudioGenerator's new method to combine with sound effects
+    await audioGenerator.combineWithSoundEffects(soundEffectsManifest, outputFile);
+    console.log('   ✅ Immersive audiobook with sound effects created\n');
+  }
+
   async generateAudiobook(options = {}) {
     const {
       startFromStep = 1,
@@ -367,7 +388,24 @@ class ModularAudiobookGenerator {
       // Step 8: Generate sound effects
       if (startFromStep <= 8 && !skipSteps.includes(8)) {
         soundEffects = await this.step8_generateSoundEffects(sequentialData, forceRerunSteps.includes(8));
+      } else {
+        const manifest = await this.loadData(this.stepFiles.soundEffects);
+        soundEffects = { effectSegments: manifest?.effects || [] };
+      }
+
+      // Step 9: Combine audiobook with sound effects
+      if (startFromStep <= 9 && !skipSteps.includes(9)) {
+        await this.step9_combineWithSoundEffects(audioGenerator, soundEffects, forceRerunSteps.includes(9));
         
+        console.log('\n✨ Immersive audiobook generation complete!');
+        console.log(`📁 Main audiobook: output/audiobook_chapter1.mp3`);
+        console.log(`📁 Immersive version: output/audiobook_with_effects.mp3`);
+        console.log('\n📊 Summary:');
+        console.log(`   - Characters: ${Object.keys(extractedData?.characters || {}).length}`);
+        console.log(`   - Total segments: ${sequentialData?.segments?.length || 0}`);
+        console.log(`   - Audio files generated: ${audioGenerator?.audioSegments?.length || 0}`);
+        console.log(`   - Sound effects generated: ${soundEffects?.effectSegments?.length || 0}`);
+      } else {
         console.log('\n✨ Audiobook generation complete!');
         console.log(`📁 Output saved to: output/audiobook_chapter1.mp3`);
         console.log('\n📊 Summary:');

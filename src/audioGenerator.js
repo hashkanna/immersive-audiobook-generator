@@ -160,6 +160,47 @@ export class AudioGenerator {
     }
   }
 
+  async combineWithSoundEffects(soundEffectsManifest, outputFilename = 'audiobook_with_effects.mp3') {
+    const baseAudioPath = 'audiobook_chapter1.mp3'; // Relative to output directory
+    const outputPath = path.join('output', outputFilename);
+    
+    // Create a complex ffmpeg filter to overlay sound effects
+    const { exec } = await import('child_process');
+    const { promisify } = await import('util');
+    const execAsync = promisify(exec);
+
+    console.log(`Combining audiobook with ${soundEffectsManifest.effects.length} sound effects...`);
+    
+    // Simple approach: mix just a few key sound effects to avoid command complexity
+    const keyEffects = soundEffectsManifest.effects.slice(0, 5); // Use first 5 effects
+    
+    try {
+      // Simple mixing approach with fewer effects
+      const command = `cd output && ffmpeg -i ${baseAudioPath} -i ${keyEffects[0].filename} -i ${keyEffects[1].filename} -i ${keyEffects[2].filename} -filter_complex "[0:a]volume=1.0[main];[1:a]volume=0.2,adelay=10s:all=1[fx1];[2:a]volume=0.2,adelay=30s:all=1[fx2];[3:a]volume=0.2,adelay=60s:all=1[fx3];[main][fx1]amix=inputs=2:duration=longest[mix1];[mix1][fx2]amix=inputs=2:duration=longest[mix2];[mix2][fx3]amix=inputs=2:duration=longest" -c:a libmp3lame -b:a 192k ${outputFilename} -y`;
+      
+      console.log('Running simplified ffmpeg command...');
+      await execAsync(command, { cwd: process.cwd() });
+      
+      console.log(`Immersive audiobook with sound effects saved to: ${outputPath}`);
+      return outputPath;
+      
+    } catch (error) {
+      console.error('Error combining audiobook with sound effects:', error);
+      console.log('Falling back to simple two-track mix...');
+      
+      // Fallback: simple two-track mix
+      try {
+        const simpleCommand = `cd output && ffmpeg -i ${baseAudioPath} -i ${soundEffectsManifest.effects[0].filename} -filter_complex "[0:a]volume=1.0[main];[1:a]volume=0.3[fx];[main][fx]amix=inputs=2:duration=longest" -c:a libmp3lame -b:a 192k ${outputFilename} -y`;
+        await execAsync(simpleCommand, { cwd: process.cwd() });
+        console.log(`Simplified audiobook with effects saved to: ${outputPath}`);
+        return outputPath;
+      } catch (fallbackError) {
+        console.error('Fallback also failed:', fallbackError);
+        throw fallbackError;
+      }
+    }
+  }
+
   async cleanupSegments() {
     for (const segment of this.audioSegments) {
       try {

@@ -1,0 +1,1084 @@
+{
+  "segments": [
+    {
+      "type": "narration",
+      "text": "Baley had just reached his desk when he became aware of R. Sammy watching him expectantly. The dour lines of his long face hardened.",
+      "speaker": "Narrator",
+      "order": 0
+    },
+    {
+      "type": "dialogue",
+      "text": "What do you want?",
+      "speaker": "Baley",
+      "order": 1
+    },
+    {
+      "type": "dialogue",
+      "text": "The boss wants you, Lije. Right away. Soon as you come in.",
+      "speaker": "R. Sammy",
+      "order": 2
+    },
+    {
+      "type": "dialogue",
+      "text": "All right.",
+      "speaker": "Baley",
+      "order": 3
+    },
+    {
+      "type": "narration",
+      "text": "R. Sammy stood there blankly.",
+      "speaker": "Narrator",
+      "order": 4
+    },
+    {
+      "type": "dialogue",
+      "text": "I said, all right. Go away!",
+      "speaker": "Baley",
+      "order": 5
+    },
+    {
+      "type": "narration",
+      "text": "R. Sammy turned on his heel and left to go about his duties. Baley wondered irritably why those same duties couldn’t be done by a man. He paused to examine the contents of his tobacco pouch and make a mental calculation. At two pipefuls a day, he could stretch it to next quota day. Then he stepped out from behind his railing (he’d rated a railed corner two years ago) and walked the length of the common room. Simpson looked up from a merc-pool file as he passed.",
+      "speaker": "Narrator",
+      "order": 6
+    },
+    {
+      "type": "dialogue",
+      "text": "Boss wants you, Lije.",
+      "speaker": "Simpson",
+      "order": 7
+    },
+    {
+      "type": "dialogue",
+      "text": "I know. R. Sammy told me.",
+      "speaker": "Baley",
+      "order": 8
+    },
+    {
+      "type": "narration",
+      "text": "A closely coded tape reeled out of the merc-pool’s vitals as the small instrument searched and analyzed its ‘memory’ for the desired information stored in the tiny vibration patterns of the gleaming mercury surface within.",
+      "speaker": "Narrator",
+      "order": 9
+    },
+    {
+      "type": "dialogue",
+      "text": "I’d kick R. Sammy’s behind if I weren’t afraid I’d break a leg.",
+      "speaker": "Simpson",
+      "order": 10
+    },
+    {
+      "type": "dialogue",
+      "text": "I saw Vince Barrett the other day.",
+      "speaker": "Simpson",
+      "order": 11
+    },
+    {
+      "type": "dialogue",
+      "text": "Oh?",
+      "speaker": "Baley",
+      "order": 12
+    },
+    {
+      "type": "dialogue",
+      "text": "He was looking for his job back. Or any job in the Department. The poor kid’s desperate, but what could I tell him. R. Sammy’s doing his job and that’s all. The kid has to work a delivery tread on the yeast farms now. He was a bright boy, too. Everyone liked him.",
+      "speaker": "Simpson",
+      "order": 13
+    },
+    {
+      "type": "narration",
+      "text": "Baley shrugged and said in a manner stiffer than he intended or felt,",
+      "speaker": "Narrator",
+      "order": 14
+    },
+    {
+      "type": "dialogue",
+      "text": "It’s a thing we’re all living through.",
+      "speaker": "Baley",
+      "order": 15
+    },
+    {
+      "type": "narration",
+      "text": "The boss rated a private office. It said JULIUS ENDERBY on the clouded glass. Nice letters. Carefully etched into the fabric of the glass. Underneath, it said COMMISSIONER OF POLICE, CITY OF NEW YORK. Baley stepped in and said,",
+      "speaker": "Narrator",
+      "order": 16
+    },
+    {
+      "type": "dialogue",
+      "text": "You want to see me, Commissioner?",
+      "speaker": "Baley",
+      "order": 17
+    },
+    {
+      "type": "narration",
+      "text": "Enderby looked up. He wore spectacles because his eyes were sensitive and couldn’t take the usual contact lenses. It was only after one got used to the sight of them that one could take in the rest of the face, which was quite undistinguished. Baley had a strong notion that the Commissioner valued his glasses for the personality they lent him and suspected that his eyeballs weren’t as sensitive as all that. The Commissioner looked definitely nervous. He straightened his cuffs, leaned back, and said, too heartily,",
+      "speaker": "Narrator",
+      "order": 18
+    },
+    {
+      "type": "dialogue",
+      "text": "Sit down, Lije. Sit down.",
+      "speaker": "Enderby",
+      "order": 19
+    },
+    {
+      "type": "narration",
+      "text": "Baley sat down stiffly and waited. Enderby said,",
+      "speaker": "Narrator",
+      "order": 20
+    },
+    {
+      "type": "dialogue",
+      "text": "How’s Jessie? And the boy?",
+      "speaker": "Enderby",
+      "order": 21
+    },
+    {
+      "type": "dialogue",
+      "text": "Fine, just fine. And your family?",
+      "speaker": "Baley",
+      "order": 22
+    },
+    {
+      "type": "dialogue",
+      "text": "Fine, just fine.",
+      "speaker": "Enderby",
+      "order": 23
+    },
+    {
+      "type": "narration",
+      "text": "It had been a false start. Baley thought: Something’s wrong with his face. Aloud, he said,",
+      "speaker": "Narrator",
+      "order": 24
+    },
+    {
+      "type": "dialogue",
+      "text": "Commissioner, I wish you wouldn’t send R. Sammy out after me.",
+      "speaker": "Baley",
+      "order": 25
+    },
+    {
+      "type": "dialogue",
+      "text": "Well, you know how I feel about those things, Lije. But he’s been put here and I’ve got to use him for something.",
+      "speaker": "Enderby",
+      "order": 26
+    },
+    {
+      "type": "dialogue",
+      "text": "It’s uncomfortable, Commissioner. He tells me you want me and then he stands there. You know what I mean. I have to tell him to go or he just keeps on standing there.",
+      "speaker": "Baley",
+      "order": 27
+    },
+    {
+      "type": "dialogue",
+      "text": "Oh, that’s my fault, Lije. I gave him the message to deliver and forgot to tell him specifically to get back to his job when he was through.",
+      "speaker": "Enderby",
+      "order": 28
+    },
+    {
+      "type": "narration",
+      "text": "Baley sighed. The fine wrinkles about his intensely brown eyes grew more pronounced.",
+      "speaker": "Narrator",
+      "order": 29
+    },
+    {
+      "type": "dialogue",
+      "text": "Anyway, you wanted to see me.",
+      "speaker": "Baley",
+      "order": 30
+    },
+    {
+      "type": "dialogue",
+      "text": "Yes, Lije, but not for anything easy.",
+      "speaker": "Enderby",
+      "order": 31
+    },
+    {
+      "type": "narration",
+      "text": "He stood up, turned away, and walked to the wall behind his desk. He touched an inconspicuous contact switch and a section of the wall grew transparent. Baley blinked at the unexpected insurge of grayish light. The Commissioner smiled.",
+      "speaker": "Narrator",
+      "order": 32
+    },
+    {
+      "type": "dialogue",
+      "text": "I had this arranged specially last year, Lije. I don’t think I’ve showed it to you before. Come over here and take a look. In the old days, all rooms had things like this. They were called “windows.” Did you know that?",
+      "speaker": "Enderby",
+      "order": 33
+    },
+    {
+      "type": "dialogue",
+      "text": "I’ve heard of them.",
+      "speaker": "Baley",
+      "order": 34
+    },
+    {
+      "type": "dialogue",
+      "text": "Come here.",
+      "speaker": "Enderby",
+      "order": 35
+    },
+    {
+      "type": "narration",
+      "text": "Baley squirmed a bit, but did as he was told. There was something indecent about the exposure of the privacy of a room to the outside world. Sometimes the Commissioner carried his affectation of Medievalism to a rather foolish extreme. Like his glasses, Baley thought. That was it! That was what made him look wrong! Baley said,",
+      "speaker": "Narrator",
+      "order": 36
+    },
+    {
+      "type": "dialogue",
+      "text": "Pardon me, Commissioner, but you’re wearing new glasses, aren’t you?",
+      "speaker": "Baley",
+      "order": 37
+    },
+    {
+      "type": "narration",
+      "text": "The Commissioner stared at him in mild surprise, took off his glasses, looked at them and then at Baley. Without his glasses, his round face seemed rounder and his chin a trifle more pronounced. He looked vaguer, too, as his eyes failed to focus properly. He said,",
+      "speaker": "Narrator",
+      "order": 38
+    },
+    {
+      "type": "dialogue",
+      "text": "Yes.",
+      "speaker": "Enderby",
+      "order": 39
+    },
+    {
+      "type": "narration",
+      "text": "He put his glasses back on his nose, then added with real anger,",
+      "speaker": "Narrator",
+      "order": 40
+    },
+    {
+      "type": "dialogue",
+      "text": "I broke my old ones three days ago. What with one thing or another I wasn’t able to replace them till this morning. Lije, those three days were hell.",
+      "speaker": "Enderby",
+      "order": 41
+    },
+    {
+      "type": "dialogue",
+      "text": "On account of the glasses?",
+      "speaker": "Baley",
+      "order": 42
+    },
+    {
+      "type": "dialogue",
+      "text": "And other things, too. I’m getting to that.",
+      "speaker": "Enderby",
+      "order": 43
+    },
+    {
+      "type": "narration",
+      "text": "He turned to the window and so did Baley. With mild shock, Baley realized it was raining. For a minute, he was lost in the spectacle of water dropping from the sky, while the Commissioner exuded a kind of pride as though the phenomenon were a matter of his own arranging.",
+      "speaker": "Narrator",
+      "order": 44
+    },
+    {
+      "type": "dialogue",
+      "text": "This is the third time this month I’ve watched it rain. Quite a sight, don’t you think?",
+      "speaker": "Enderby",
+      "order": 45
+    },
+    {
+      "type": "narration",
+      "text": "Against his will, Baley had to admit to himself that it was impressive. In his forty-two years he had rarely seen rain, or any of the phenomena of nature, for that matter. He said,",
+      "speaker": "Narrator",
+      "order": 46
+    },
+    {
+      "type": "dialogue",
+      "text": "It always seems a waste for all that water to come down on the city. It should restrict itself to the reservoirs.",
+      "speaker": "Baley",
+      "order": 47
+    },
+    {
+      "type": "dialogue",
+      "text": "Lije, you’re a modernist. That’s your trouble. In Medieval times, people lived in the open. I don’t mean on the farms only. I mean in the cities, too. Even in New York. When it rained, they didn’t think of it as waste. They gloried in it. They lived close to nature. It’s healthier, better. The troubles of modern life come from being divorced from nature. Read up on the Coal Century, sometimes.",
+      "speaker": "Enderby",
+      "order": 48
+    },
+    {
+      "type": "narration",
+      "text": "Baley had. He had heard many people moaning about the invention of the atomic pile. He moaned about it himself when things went wrong, or when he got tired. Moaning like that was a built-in facet of human nature. Back in the Coal Century, people moaned about the invention of the steam engine. In one of Shakespeare’s plays, a character moaned about the invention of gunpowder. A thousand years in the future, they’d be moaning about the invention of the positronic brain. The hell with it. He said, grimly,",
+      "speaker": "Narrator",
+      "order": 49
+    },
+    {
+      "type": "dialogue",
+      "text": "Look, Julius. Look, Julius, you’re talking about everything except what I came in here for, and it’s worrying me. What is it?",
+      "speaker": "Baley",
+      "order": 50
+    },
+    {
+      "type": "dialogue",
+      "text": "I’ll get to it, Lije. Let me do it my way. It’s – it’s trouble.",
+      "speaker": "Enderby",
+      "order": 51
+    },
+    {
+      "type": "dialogue",
+      "text": "Sure. What isn’t on this planet? More trouble with the R’s?",
+      "speaker": "Baley",
+      "order": 52
+    },
+    {
+      "type": "dialogue",
+      "text": "In a way, yes, Lije. I stand here and wonder how much more trouble the old world can take. When I put in this window, I wasn’t just letting in the sky once in a while. I let in the City. I look at it and I wonder what will become of it in another century.",
+      "speaker": "Enderby",
+      "order": 53
+    },
+    {
+      "type": "narration",
+      "text": "Baley felt repelled by the other’s sentimentality, but he found himself staring outward in fascination. Even dimmed by the weather, the City was a tremendous thing to see. The Police Department was in the upper levels of City Hall, and City Hall reached high. From the Commissioner’s window, the neighboring towers fell short and the tops were visible. They were so many fingers, groping upward. Their walls were blank, featureless. They were the outer shells of human hives.",
+      "speaker": "Narrator",
+      "order": 54
+    },
+    {
+      "type": "dialogue",
+      "text": "In a way, I’m sorry it’s raining. We can’t see Spacetown.",
+      "speaker": "Enderby",
+      "order": 55
+    },
+    {
+      "type": "narration",
+      "text": "Baley looked westward, but it was as the Commissioner said. The horizon closed down. New York’s towers grew misty and came to an end against blank whiteness.",
+      "speaker": "Narrator",
+      "order": 56
+    },
+    {
+      "type": "dialogue",
+      "text": "I know what Spacetown is like.",
+      "speaker": "Baley",
+      "order": 57
+    },
+    {
+      "type": "dialogue",
+      "text": "I like the picture from here. It can just be made out in the gap between the two Brunswick Sectors. Low domes spread out. It’s the difference between us and the Spacers. We reach high and crowd close. With them, each family has a dome for itself. One family: one house. And land between each dome. Have you ever spoken to any of the Spacers, Lije?",
+      "speaker": "Enderby",
+      "order": 58
+    },
+    {
+      "type": "dialogue",
+      "text": "A few times. About a month ago, I spoke to one right here on your intercom.",
+      "speaker": "Baley",
+      "order": 59
+    },
+    {
+      "type": "dialogue",
+      "text": "Yes, I remember. But then I’m getting philosophical. We and they. Different ways of life.",
+      "speaker": "Enderby",
+      "order": 60
+    },
+    {
+      "type": "narration",
+      "text": "Baley’s stomach was beginning to constrict a little. The more devious the Commissioner’s approach, the deadlier he thought might be the conclusion. He said,",
+      "speaker": "Narrator",
+      "order": 61
+    },
+    {
+      "type": "dialogue",
+      "text": "All right. But what’s so surprising about it? You can’t spread eight million people over Earth in little domes. They’ve got space on their worlds, so let them live their way.",
+      "speaker": "Baley",
+      "order": 62
+    },
+    {
+      "type": "narration",
+      "text": "The Commissioner walked to his chair and sat down. His eyes looked unblinkingly at Baley, shrunken a bit by the concave lenses in his spectacles. He said,",
+      "speaker": "Narrator",
+      "order": 63
+    },
+    {
+      "type": "dialogue",
+      "text": "Not everyone is that tolerant about differences in culture. Either among us or among the Spacers.",
+      "speaker": "Enderby",
+      "order": 64
+    },
+    {
+      "type": "dialogue",
+      "text": "All right So what?",
+      "speaker": "Baley",
+      "order": 65
+    },
+    {
+      "type": "dialogue",
+      "text": "So three days ago, a Spacer died.",
+      "speaker": "Enderby",
+      "order": 66
+    },
+    {
+      "type": "narration",
+      "text": "Now it was coming. The corners of Baley’s thin lips raised a trifle, but the effect upon his long, sad face was unnoticeable. He said,",
+      "speaker": "Narrator",
+      "order": 67
+    },
+    {
+      "type": "dialogue",
+      "text": "Too bad. Something contagious, I hope. A virus. A cold, perhaps.",
+      "speaker": "Baley",
+      "order": 68
+    },
+    {
+      "type": "narration",
+      "text": "The Commissioner looked startled.",
+      "speaker": "Narrator",
+      "order": 69
+    },
+    {
+      "type": "dialogue",
+      "text": "What are you talking about?",
+      "speaker": "Enderby",
+      "order": 70
+    },
+    {
+      "type": "narration",
+      "text": "Baley didn’t care to explain. The precision with which the Spacers had bred disease out of their societies was well known. The care with which they avoided, as far as possible, contact with disease-riddled Earthmen was even better known. But then, sarcasm was lost on the Commissioner. Baley said,",
+      "speaker": "Narrator",
+      "order": 71
+    },
+    {
+      "type": "dialogue",
+      "text": "I’m just talking. What did he die of?",
+      "speaker": "Baley",
+      "order": 72
+    },
+    {
+      "type": "narration",
+      "text": "He turned back to the window. The Commissioner said,",
+      "speaker": "Narrator",
+      "order": 73
+    },
+    {
+      "type": "dialogue",
+      "text": "He died of a missing chest. Someone had used a blaster on him.",
+      "speaker": "Enderby",
+      "order": 74
+    },
+    {
+      "type": "narration",
+      "text": "Baley’s back grew rigid. He said, without turning,",
+      "speaker": "Narrator",
+      "order": 75
+    },
+    {
+      "type": "dialogue",
+      "text": "What are you talking about?",
+      "speaker": "Baley",
+      "order": 76
+    },
+    {
+      "type": "dialogue",
+      "text": "I’m talking about murder. You’re a plain-clothes man. You know what murder is.",
+      "speaker": "Enderby",
+      "order": 77
+    },
+    {
+      "type": "narration",
+      "text": "And now Baley turned.",
+      "speaker": "Narrator",
+      "order": 78
+    },
+    {
+      "type": "dialogue",
+      "text": "But a Spacer! Three days ago?",
+      "speaker": "Baley",
+      "order": 79
+    },
+    {
+      "type": "dialogue",
+      "text": "Yes.",
+      "speaker": "Enderby",
+      "order": 80
+    },
+    {
+      "type": "dialogue",
+      "text": "But who did it? How?",
+      "speaker": "Baley",
+      "order": 81
+    },
+    {
+      "type": "dialogue",
+      "text": "The Spacers say it was an Earthman.",
+      "speaker": "Enderby",
+      "order": 82
+    },
+    {
+      "type": "dialogue",
+      "text": "It can’t be.",
+      "speaker": "Baley",
+      "order": 83
+    },
+    {
+      "type": "dialogue",
+      "text": "Why not? You don’t like the Spacers. I don’t. Who on Earth does? Someone didn’t like them a little too much, that’s all.",
+      "speaker": "Enderby",
+      "order": 84
+    },
+    {
+      "type": "dialogue",
+      "text": "Sure, but—",
+      "speaker": "Baley",
+      "order": 85
+    },
+    {
+      "type": "dialogue",
+      "text": "There was the fire at the Los Angeles factories. There was the Berlin R-smashing. There were the riots in Shanghai.",
+      "speaker": "Enderby",
+      "order": 86
+    },
+    {
+      "type": "dialogue",
+      "text": "All right.",
+      "speaker": "Baley",
+      "order": 87
+    },
+    {
+      "type": "dialogue",
+      "text": "It all points to rising discontent. Maybe to some sort of organization.",
+      "speaker": "Enderby",
+      "order": 88
+    },
+    {
+      "type": "dialogue",
+      "text": "Commissioner, I don’t get this. Are you testing me for some reason?",
+      "speaker": "Baley",
+      "order": 89
+    },
+    {
+      "type": "dialogue",
+      "text": "What?",
+      "speaker": "Enderby",
+      "order": 90
+    },
+    {
+      "type": "narration",
+      "text": "The Commissioner looked honestly bewildered. Baley watched him.",
+      "speaker": "Narrator",
+      "order": 91
+    },
+    {
+      "type": "dialogue",
+      "text": "Three days ago a Spacer was murdered and the Spacers think the murderer is an Earthman. Till now, nothing’s come out. Is that right? Commissioner, that’s unbelievable. Jehoshaphat, Commissioner, a thing like this would blow New York off the face of the planet if it really happened.",
+      "speaker": "Baley",
+      "order": 92
+    },
+    {
+      "type": "dialogue",
+      "text": "It’s not as simple as that. Look, Lije, I’ve been out three days. I’ve been in conference with the Mayor. I’ve been out to Spacetown. I’ve been down in Washington, talking to the Terrestrial Bureau of Investigation.",
+      "speaker": "Enderby",
+      "order": 93
+    },
+    {
+      "type": "dialogue",
+      "text": "Oh? And what do the Terries have to say?",
+      "speaker": "Baley",
+      "order": 94
+    },
+    {
+      "type": "dialogue",
+      "text": "They say it’s our baby. It’s inside city limits. Spacetown is under New York jurisdiction.",
+      "speaker": "Enderby",
+      "order": 95
+    },
+    {
+      "type": "dialogue",
+      "text": "But with extraterritorial rights.",
+      "speaker": "Baley",
+      "order": 96
+    },
+    {
+      "type": "dialogue",
+      "text": "I know. I’m coming to that.",
+      "speaker": "Enderby",
+      "order": 97
+    },
+    {
+      "type": "narration",
+      "text": "The Commissioner’s eyes fell away from Baley’s flinty stare. He seemed to regard himself as having been rudely demoted to the position of Baley’s underling, and Baley behaved as though he accepted the fact.",
+      "speaker": "Narrator",
+      "order": 98
+    },
+    {
+      "type": "dialogue",
+      "text": "The Spacers can run the show.",
+      "speaker": "Baley",
+      "order": 99
+    },
+    {
+      "type": "dialogue",
+      "text": "Wait a minute, Lije, don’t rush me. I’m trying to talk this over, friend to friend. I want you to know my position. I was there when the news broke. I had an appointment with him – with Roj Nemennuh Sarton.",
+      "speaker": "Enderby",
+      "order": 100
+    },
+    {
+      "type": "dialogue",
+      "text": "The victim?",
+      "speaker": "Baley",
+      "order": 101
+    },
+    {
+      "type": "dialogue",
+      "text": "The victim.",
+      "speaker": "Enderby",
+      "order": 102
+    },
+    {
+      "type": "narration",
+      "text": "The Commissioner groaned.",
+      "speaker": "Narrator",
+      "order": 103
+    },
+    {
+      "type": "dialogue",
+      "text": "Five minutes more and I, myself, would have discovered the body. What a shock that would have been. As it was, it was brutal, brutal. They met me and told me. It started a three-day nightmare, Lije. That on top of having everything blur on me and having no time to replace my glasses for days. That won’t happen again, at least. I’ve ordered three pairs.",
+      "speaker": "Enderby",
+      "order": 104
+    },
+    {
+      "type": "narration",
+      "text": "Baley considered the picture he conjured up of the event. He could see the tall, fair figures of the Spacers approaching the Commissioner with the news and breaking it to him in their unvarnished emotionless way. Julius would remove his glasses and polish them. Inevitably, under the impact of the event he would drop them, then look down at the broken remnants with a quiver of his soft, full lips. Baley was quite certain that for five minutes anyway, the Commissioner was much more disturbed over his glasses than over the murder.",
+      "speaker": "Narrator",
+      "order": 105
+    },
+    {
+      "type": "narration",
+      "text": "The Commissioner was saying,",
+      "speaker": "Narrator",
+      "order": 106
+    },
+    {
+      "type": "dialogue",
+      "text": "It’s a devil of a position. As you say, the Spacers have extraterritorial rights. They can insist on their own investigation, make whatever report they wish to their home governments. The Outer Worlds could use this as an excuse to pile on indemnity charges. You know how that would sit with the population.",
+      "speaker": "Enderby",
+      "order": 107
+    },
+    {
+      "type": "dialogue",
+      "text": "It would be political suicide for the White House to agree to pay.",
+      "speaker": "Baley",
+      "order": 108
+    },
+    {
+      "type": "dialogue",
+      "text": "And another kind of suicide not to pay.",
+      "speaker": "Enderby",
+      "order": 109
+    },
+    {
+      "type": "dialogue",
+      "text": "You don’t have to draw me a picture.",
+      "speaker": "Baley",
+      "order": 110
+    },
+    {
+      "type": "narration",
+      "text": "He had been a small boy when the gleaming cruisers from outer space last sent down their soldiers into Washington, New York, and Moscow to collect what they claimed was theirs.",
+      "speaker": "Narrator",
+      "order": 111
+    },
+    {
+      "type": "dialogue",
+      "text": "Then you see. Pay or not pay, it’s trouble. The only way out is to find the murderer on our own and hand him over to the Spacers. It’s up to us.",
+      "speaker": "Enderby",
+      "order": 112
+    },
+    {
+      "type": "dialogue",
+      "text": "Why not give it to the TBI? Even if it is our jurisdiction from a legalistic viewpoint, there’s the question of interstellar relations—",
+      "speaker": "Baley",
+      "order": 113
+    },
+    {
+      "type": "dialogue",
+      "text": "The TBI won’t touch it. This is hot and it’s in our lap.",
+      "speaker": "Enderby",
+      "order": 114
+    },
+    {
+      "type": "narration",
+      "text": "For a moment, he lifted his head and gazed keenly at his subordinate.",
+      "speaker": "Narrator",
+      "order": 115
+    },
+    {
+      "type": "dialogue",
+      "text": "And it’s not good, Lije. Every one of us stands the chance of being out of a job.",
+      "speaker": "Enderby",
+      "order": 116
+    },
+    {
+      "type": "dialogue",
+      "text": "Replace us all? Nuts. The trained men to do it with don’t exist.",
+      "speaker": "Baley",
+      "order": 117
+    },
+    {
+      "type": "dialogue",
+      "text": "R’s, they exist.",
+      "speaker": "Enderby",
+      "order": 118
+    },
+    {
+      "type": "dialogue",
+      "text": "What?",
+      "speaker": "Baley",
+      "order": 119
+    },
+    {
+      "type": "dialogue",
+      "text": "R. Sammy is just a beginning. He runs errands. Others can patrol the expressways. Damn it man, I know the Spacers better than you do, and I know what they’re doing. There are R’s that can do your work and mine. We can be declassified. Don’t think differently. And at our age, to hit the labor pool …",
+      "speaker": "Enderby",
+      "order": 120
+    },
+    {
+      "type": "dialogue",
+      "text": "All right.",
+      "speaker": "Baley",
+      "order": 121
+    },
+    {
+      "type": "narration",
+      "text": "The Commissioner looked abashed.",
+      "speaker": "Narrator",
+      "order": 122
+    },
+    {
+      "type": "dialogue",
+      "text": "Sorry, Lije.",
+      "speaker": "Enderby",
+      "order": 123
+    },
+    {
+      "type": "narration",
+      "text": "Baley nodded and tried not to think of his father. The Commissioner knew the story, of course. Baley said,",
+      "speaker": "Narrator",
+      "order": 124
+    },
+    {
+      "type": "dialogue",
+      "text": "When did all this replacement business come up?",
+      "speaker": "Baley",
+      "order": 125
+    },
+    {
+      "type": "dialogue",
+      "text": "Look, you’re being naïve, Lije. It’s been happening all along. It’s been happening for twenty-five years, ever since the Spacers came. You know that. It’s just beginning to reach higher, that’s all. If we muff this case, it’s a big, long step toward the point where we can stop looking forward to collecting our pension-tab booklets. On the other hand, Lije, if we handle the matter well, it can shove that point far into the future. And it would be a particular break for you.",
+      "speaker": "Enderby",
+      "order": 126
+    },
+    {
+      "type": "dialogue",
+      "text": "For me?",
+      "speaker": "Baley",
+      "order": 127
+    },
+    {
+      "type": "dialogue",
+      "text": "You’ll be the operative in charge, Lije.",
+      "speaker": "Enderby",
+      "order": 128
+    },
+    {
+      "type": "dialogue",
+      "text": "I don’t rate it, Commissioner. I’m a C-5, that’s all.",
+      "speaker": "Baley",
+      "order": 129
+    },
+    {
+      "type": "dialogue",
+      "text": "You want a C-6 rating, don’t you?",
+      "speaker": "Enderby",
+      "order": 130
+    },
+    {
+      "type": "narration",
+      "text": "Did he? Baley knew the privileges a C-6 rating carried. A seat on the expressway in the rush hour, not just from ten to four. Higher up on the list-of-choice at the Section kitchens. Maybe even a chance at a better apartment and a quota ticket to the Solarium levels for Jessie.",
+      "speaker": "Narrator",
+      "order": 131
+    },
+    {
+      "type": "dialogue",
+      "text": "I want it. Sure. Why wouldn’t I? But what would I get if I couldn’t break the case?",
+      "speaker": "Baley",
+      "order": 132
+    },
+    {
+      "type": "dialogue",
+      "text": "Why wouldn’t you break it, Lije? You’re a good man. You’re one of the best we have.",
+      "speaker": "Enderby",
+      "order": 133
+    },
+    {
+      "type": "dialogue",
+      "text": "But there are half a dozen men with higher ratings in my department section. Why should they be passed over?",
+      "speaker": "Baley",
+      "order": 134
+    },
+    {
+      "type": "narration",
+      "text": "Baley did not say out loud, though his bearing implied it strongly, that the Commissioner did not move outside protocol in this fashion except in cases of wild emergency. The Commissioner folded his hands.",
+      "speaker": "Narrator",
+      "order": 135
+    },
+    {
+      "type": "dialogue",
+      "text": "Two reasons. You’re not just another detective to me, Lije. We’re friends, too. I’m not forgetting we were in college together. Sometimes it may look as though I have forgotten, but that’s the fault of rating. I’m Commissioner, and you know what that means. But I’m still your friend and this is a tremendous chance for the right person. I want you to have it.",
+      "speaker": "Enderby",
+      "order": 136
+    },
+    {
+      "type": "dialogue",
+      "text": "That’s one reason.",
+      "speaker": "Baley",
+      "order": 137
+    },
+    {
+      "type": "narration",
+      "text": "Baley said, without warmth.",
+      "speaker": "Narrator",
+      "order": 138
+    },
+    {
+      "type": "dialogue",
+      "text": "The second reason is that I think you’re my friend. I need a favor.",
+      "speaker": "Enderby",
+      "order": 139
+    },
+    {
+      "type": "dialogue",
+      "text": "What sort of favor?",
+      "speaker": "Baley",
+      "order": 140
+    },
+    {
+      "type": "dialogue",
+      "text": "I want you to take on a Spacer partner in this deal. That was the condition the Spacers made. They’ve agreed not to report the murder; they’ve agreed to leave the investigation in our hands. In return, they insist one of their own agents be in on the deal, the whole deal.",
+      "speaker": "Enderby",
+      "order": 141
+    },
+    {
+      "type": "dialogue",
+      "text": "It sounds like they don’t trust us altogether.",
+      "speaker": "Baley",
+      "order": 142
+    },
+    {
+      "type": "dialogue",
+      "text": "Surely you see their point. If this is mishandled, a number of them will be in trouble with their own governments. I’ll give them the benefit of the doubt, Lije. I’m willing to believe they mean well.",
+      "speaker": "Enderby",
+      "order": 143
+    },
+    {
+      "type": "dialogue",
+      "text": "I’m sure they do, Commissioner. That’s the trouble with them.",
+      "speaker": "Baley",
+      "order": 144
+    },
+    {
+      "type": "narration",
+      "text": "The Commissioner looked blank at that, but went on.",
+      "speaker": "Narrator",
+      "order": 145
+    },
+    {
+      "type": "dialogue",
+      "text": "Are you willing to take on a Spacer partner, Lije?",
+      "speaker": "Enderby",
+      "order": 146
+    },
+    {
+      "type": "dialogue",
+      "text": "You’re asking that as a favor?",
+      "speaker": "Baley",
+      "order": 147
+    },
+    {
+      "type": "dialogue",
+      "text": "Yes, I’m asking you to take the job with all the conditions the Spacers have set up.",
+      "speaker": "Enderby",
+      "order": 148
+    },
+    {
+      "type": "dialogue",
+      "text": "I’ll take a Spacer partner, Commissioner.",
+      "speaker": "Baley",
+      "order": 149
+    },
+    {
+      "type": "dialogue",
+      "text": "Thanks, Lije. He’ll have to live with you.",
+      "speaker": "Enderby",
+      "order": 150
+    },
+    {
+      "type": "dialogue",
+      "text": "Oh, now, hold on.",
+      "speaker": "Baley",
+      "order": 151
+    },
+    {
+      "type": "dialogue",
+      "text": "I know. I know. But you’ve got a large apartment, Lije. Three rooms. Only one child. You can put him up. He’ll be no trouble. No trouble at all. And it’s necessary.",
+      "speaker": "Enderby",
+      "order": 152
+    },
+    {
+      "type": "dialogue",
+      "text": "Jessie won’t like it. I know that.",
+      "speaker": "Baley",
+      "order": 153
+    },
+    {
+      "type": "dialogue",
+      "text": "You tell Jessie, that if you do this for me, I’ll do what I can when this is all over to jump you a grade. C-7, Lije. C-7!",
+      "speaker": "Enderby",
+      "order": 154
+    },
+    {
+      "type": "dialogue",
+      "text": "All right, Commissioner, it’s a deal.",
+      "speaker": "Baley",
+      "order": 155
+    },
+    {
+      "type": "narration",
+      "text": "Baley half rose from his chair, caught the look on Enderby’s face, and sat down again.",
+      "speaker": "Narrator",
+      "order": 156
+    },
+    {
+      "type": "dialogue",
+      "text": "There’s something else?",
+      "speaker": "Baley",
+      "order": 157
+    },
+    {
+      "type": "narration",
+      "text": "Slowly, the Commissioner nodded.",
+      "speaker": "Narrator",
+      "order": 158
+    },
+    {
+      "type": "dialogue",
+      "text": "One more item.",
+      "speaker": "Enderby",
+      "order": 159
+    },
+    {
+      "type": "dialogue",
+      "text": "Which is?",
+      "speaker": "Baley",
+      "order": 160
+    },
+    {
+      "type": "dialogue",
+      "text": "The name of your partner.",
+      "speaker": "Enderby",
+      "order": 161
+    },
+    {
+      "type": "dialogue",
+      "text": "What difference does that make?",
+      "speaker": "Baley",
+      "order": 162
+    },
+    {
+      "type": "dialogue",
+      "text": "The Spacers have peculiar ways. The partner they’re supplying isn’t – isn’t …",
+      "speaker": "Enderby",
+      "order": 163
+    },
+    {
+      "type": "dialogue",
+      "text": "Just a minute!",
+      "speaker": "Baley",
+      "order": 164
+    },
+    {
+      "type": "dialogue",
+      "text": "You’ve got to, Lije. You’ve got to. There’s no way out.",
+      "speaker": "Enderby",
+      "order": 165
+    },
+    {
+      "type": "dialogue",
+      "text": "Stay at my apartment? A thing like that?",
+      "speaker": "Baley",
+      "order": 166
+    },
+    {
+      "type": "dialogue",
+      "text": "As a friend, please!",
+      "speaker": "Enderby",
+      "order": 167
+    },
+    {
+      "type": "dialogue",
+      "text": "No. No!",
+      "speaker": "Baley",
+      "order": 168
+    },
+    {
+      "type": "dialogue",
+      "text": "Lije, I can’t trust anyone else in this. Do I have to spell it out for you? We’ve got to work with the Spacers. We’ve got to succeed, if we’re to keep the indemnity ships away from Earth. But we can’t succeed just any old way. You’ll be partnered with one of their R’s. If he breaks the case, if he can report that we’re incompetent, we’re ruined, anyway. We, as a department. You see that, don’t you? So you’ve got a delicate job on your hands. You’ve got to work with him, but see to it that you solve the case and not he. Understand?",
+      "speaker": "Enderby",
+      "order": 169
+    },
+    {
+      "type": "dialogue",
+      "text": "You mean co-operate with him 100 per cent, except that I cut his throat? Pat him on the back with a knife in my hand?",
+      "speaker": "Baley",
+      "order": 170
+    },
+    {
+      "type": "dialogue",
+      "text": "What else can we do? There’s no other way out.",
+      "speaker": "Enderby",
+      "order": 171
+    },
+    {
+      "type": "narration",
+      "text": "Lije Baley stood irresolute.",
+      "speaker": "Narrator",
+      "order": 172
+    },
+    {
+      "type": "dialogue",
+      "text": "I don’t know what Jessie will say.",
+      "speaker": "Baley",
+      "order": 173
+    },
+    {
+      "type": "dialogue",
+      "text": "I’ll talk to her, if you want me to.",
+      "speaker": "Enderby",
+      "order": 174
+    },
+    {
+      "type": "dialogue",
+      "text": "No, Commissioner.",
+      "speaker": "Baley",
+      "order": 175
+    },
+    {
+      "type": "narration",
+      "text": "He drew a deep, sighing breath.",
+      "speaker": "Narrator",
+      "order": 176
+    },
+    {
+      "type": "dialogue",
+      "text": "What’s my partner’s name?",
+      "speaker": "Baley",
+      "order": 177
+    },
+    {
+      "type": "dialogue",
+      "text": "R. Daneel Olivaw.",
+      "speaker": "Enderby",
+      "order": 178
+    },
+    {
+      "type": "dialogue",
+      "text": "This isn’t a time for euphemism, Commissioner. I’m taking the job, so let’s use his full name. Robot Daneel Olivaw.",
+      "speaker": "Baley",
+      "order": 179
+    }
+  ]
+}

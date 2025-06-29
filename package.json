@@ -1,0 +1,25 @@
+{
+  "name": "caves-of-steel-audiobook",
+  "version": "1.0.0",
+  "description": "Voice-driven audiobook generation for Caves of Steel using OpenAI and ElevenLabs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "node --watch src/main.js",
+    "modular": "node src/modularMain.js",
+    "step": "node src/modularMain.js --start-from",
+    "force": "node src/modularMain.js --force-rerun"
+  },
+  "dependencies": {
+    "@elevenlabs/elevenlabs-js": "^2.4.1",
+    "dotenv": "^16.4.7",
+    "openai": "^4.72.0",
+    "pdf-parse-new": "^1.4.1",
+    "pdf2json": "^3.1.6",
+    "pdfjs-dist": "^5.3.31"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.6"
+  }
+}

@@ -1,0 +1,1362 @@
+[
+  {
+    "speaker": "Baley",
+    "text": "What do you want?",
+    "context": "Segment 1 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "neutral"
+    }
+  },
+  {
+    "speaker": "R. Sammy",
+    "text": "The boss wants you, Lije. Right away. Soon as you come in.",
+    "context": "Segment 2 in the sequence",
+    "emotion": {
+      "primary_emotion": "urgent",
+      "intensity": "high",
+      "voice_modulation": "assertive"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "All right.",
+    "context": "Segment 3 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "I said, all right. Go away!",
+    "context": "Segment 5 in the sequence",
+    "emotion": {
+      "primary_emotion": "angry",
+      "intensity": "high",
+      "voice_modulation": "loud, forceful"
+    }
+  },
+  {
+    "speaker": "Simpson",
+    "text": "Boss wants you, Lije.",
+    "context": "Segment 7 in the sequence",
+    "emotion": {
+      "primary_emotion": "neutral",
+      "intensity": "low",
+      "voice_modulation": "calm"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "I know. R. Sammy told me.",
+    "context": "Segment 8 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Simpson",
+    "text": "I’d kick R. Sammy’s behind if I weren’t afraid I’d break a leg.",
+    "context": "Segment 10 in the sequence",
+    "emotion": {
+      "primary_emotion": "humorous",
+      "intensity": "medium",
+      "voice_modulation": "playful, slightly sarcastic"
+    }
+  },
+  {
+    "speaker": "Simpson",
+    "text": "I saw Vince Barrett the other day.",
+    "context": "Segment 11 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "neutral, slightly intrigued"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Oh?",
+    "context": "Segment 12 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Simpson",
+    "text": "He was looking for his job back. Or any job in the Department. The poor kid’s desperate, but what could I tell him. R. Sammy’s doing his job and that’s all. The kid has to work a delivery tread on the yeast farms now. He was a bright boy, too. Everyone liked him.",
+    "context": "Segment 13 in the sequence",
+    "emotion": {
+      "primary_emotion": "sad",
+      "intensity": "medium",
+      "voice_modulation": "soft, reflective"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "It’s a thing we’re all living through.",
+    "context": "Segment 15 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "You want to see me, Commissioner?",
+    "context": "Segment 17 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "neutral, slightly inquisitive"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Sit down, Lije. Sit down.",
+    "context": "Segment 19 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "How’s Jessie? And the boy?",
+    "context": "Segment 21 in the sequence",
+    "emotion": {
+      "primary_emotion": "concerned",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Fine, just fine. And your family?",
+    "context": "Segment 22 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "neutral, slightly inquisitive"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Fine, just fine.",
+    "context": "Segment 23 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Commissioner, I wish you wouldn’t send R. Sammy out after me.",
+    "context": "Segment 25 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "soft, pleading"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Well, you know how I feel about those things, Lije. But he’s been put here and I’ve got to use him for something.",
+    "context": "Segment 26 in the sequence",
+    "emotion": {
+      "primary_emotion": "resigned",
+      "intensity": "medium",
+      "voice_modulation": "calm but firm"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "It’s uncomfortable, Commissioner. He tells me you want me and then he stands there. You know what I mean. I have to tell him to go or he just keeps on standing there.",
+    "context": "Segment 27 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Oh, that’s my fault, Lije. I gave him the message to deliver and forgot to tell him specifically to get back to his job when he was through.",
+    "context": "Segment 28 in the sequence",
+    "emotion": {
+      "primary_emotion": "regret",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Anyway, you wanted to see me.",
+    "context": "Segment 30 in the sequence",
+    "emotion": {
+      "primary_emotion": "neutral",
+      "intensity": "low",
+      "voice_modulation": "calm"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Yes, Lije, but not for anything easy.",
+    "context": "Segment 31 in the sequence",
+    "emotion": {
+      "primary_emotion": "determined",
+      "intensity": "medium",
+      "voice_modulation": "firm"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "I had this arranged specially last year, Lije. I don’t think I’ve showed it to you before. Come over here and take a look. In the old days, all rooms had things like this. They were called “windows.” Did you know that?",
+    "context": "Segment 33 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "enthusiastic, inviting"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "I’ve heard of them.",
+    "context": "Segment 35 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "neutral"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Come here.",
+    "context": "Segment 36 in the sequence",
+    "emotion": {
+      "primary_emotion": "commanding",
+      "intensity": "medium",
+      "voice_modulation": "firm"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Pardon me, Commissioner, but you’re wearing new glasses, aren’t you?",
+    "context": "Segment 38 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Yes.",
+    "context": "Segment 40 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "I broke my old ones three days ago. What with one thing or another I wasn’t able to replace them till this morning. Lije, those three days were hell.",
+    "context": "Segment 42 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "high",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "On account of the glasses?",
+    "context": "Segment 43 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "And other things, too. I’m getting to that.",
+    "context": "Segment 44 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "measured, steady"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "This is the third time this month I’ve watched it rain. Quite a sight, don’t you think?",
+    "context": "Segment 46 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "It always seems a waste for all that water to come down on the city. It should restrict itself to the reservoirs.",
+    "context": "Segment 48 in the sequence",
+    "emotion": {
+      "primary_emotion": "frustration",
+      "intensity": "medium",
+      "voice_modulation": "calm but slightly disappointed"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Lije, you’re a modernist. That’s your trouble. In Medieval times, people lived in the open. I don’t mean on the farms only. I mean in the cities, too. Even in New York. When it rained, they didn’t think of it as waste. They gloried in it. They lived close to nature. It’s healthier, better. The troubles of modern life come from being divorced from nature. Read up on the Coal Century, sometimes.",
+    "context": "Segment 49 in the sequence",
+    "emotion": {
+      "primary_emotion": "nostalgic",
+      "intensity": "medium",
+      "voice_modulation": "passionate, reflective"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Look, Julius. Look, Julius, you’re talking about everything except what I came in here for, and it’s worrying me. What is it?",
+    "context": "Segment 51 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "I’ll get to it, Lije. Let me do it my way. It’s – it’s trouble.",
+    "context": "Segment 52 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "soft, hesitant"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Sure. What isn’t on this planet? More trouble with the R’s?",
+    "context": "Segment 53 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "slightly sarcastic"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "In a way, yes, Lije. I stand here and wonder how much more trouble the old world can take. When I put in this window, I wasn’t just letting in the sky once in a while. I let in the City. I look at it and I wonder what will become of it in another century.",
+    "context": "Segment 54 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "thoughtful, reflective"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "In a way, I’m sorry it’s raining. We can’t see Spacetown.",
+    "context": "Segment 56 in the sequence",
+    "emotion": {
+      "primary_emotion": "melancholic",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "I know what Spacetown is like.",
+    "context": "Segment 58 in the sequence",
+    "emotion": {
+      "primary_emotion": "confident",
+      "intensity": "medium",
+      "voice_modulation": "steady"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "I like the picture from here. It can just be made out in the gap between the two Brunswick Sectors. Low domes spread out. It’s the difference between us and the Spacers. We reach high and crowd close. With them, each family has a dome for itself. One family: one house. And land between each dome. Have you ever spoken to any of the Spacers, Lije?",
+    "context": "Segment 59 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "thoughtful"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "A few times. About a month ago, I spoke to one right here on your intercom.",
+    "context": "Segment 60 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Yes, I remember. But then I’m getting philosophical. We and they. Different ways of life.",
+    "context": "Segment 61 in the sequence",
+    "emotion": {
+      "primary_emotion": "reflective",
+      "intensity": "medium",
+      "voice_modulation": "calm, contemplative"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "All right. But what’s so surprising about it? You can’t spread eight million people over Earth in little domes. They’ve got space on their worlds, so let them live their way.",
+    "context": "Segment 63 in the sequence",
+    "emotion": {
+      "primary_emotion": "frustrated",
+      "intensity": "medium",
+      "voice_modulation": "assertive"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Not everyone is that tolerant about differences in culture. Either among us or among the Spacers.",
+    "context": "Segment 65 in the sequence",
+    "emotion": {
+      "primary_emotion": "cautious",
+      "intensity": "medium",
+      "voice_modulation": "measured, contemplative"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "All right So what?",
+    "context": "Segment 66 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "neutral"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "So three days ago, a Spacer died.",
+    "context": "Segment 67 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "neutral"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Too bad. Something contagious, I hope. A virus. A cold, perhaps.",
+    "context": "Segment 69 in the sequence",
+    "emotion": {
+      "primary_emotion": "sarcastic",
+      "intensity": "medium",
+      "voice_modulation": "dry, slightly mocking"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "What are you talking about?",
+    "context": "Segment 71 in the sequence",
+    "emotion": {
+      "primary_emotion": "confusion",
+      "intensity": "medium",
+      "voice_modulation": "curious, slightly raised"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "I’m just talking. What did he die of?",
+    "context": "Segment 73 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "He died of a missing chest. Someone had used a blaster on him.",
+    "context": "Segment 75 in the sequence",
+    "emotion": {
+      "primary_emotion": "sad",
+      "intensity": "high",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "What are you talking about?",
+    "context": "Segment 77 in the sequence",
+    "emotion": {
+      "primary_emotion": "confusion",
+      "intensity": "medium",
+      "voice_modulation": "curious"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "I’m talking about murder. You’re a plain-clothes man. You know what murder is.",
+    "context": "Segment 78 in the sequence",
+    "emotion": {
+      "primary_emotion": "angry",
+      "intensity": "high",
+      "voice_modulation": "tense, assertive"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "But a Spacer! Three days ago?",
+    "context": "Segment 80 in the sequence",
+    "emotion": {
+      "primary_emotion": "surprise",
+      "intensity": "medium",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Yes.",
+    "context": "Segment 81 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "But who did it? How?",
+    "context": "Segment 82 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "The Spacers say it was an Earthman.",
+    "context": "Segment 83 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "neutral, slightly inquisitive"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "It can’t be.",
+    "context": "Segment 84 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "high",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Why not? You don’t like the Spacers. I don’t. Who on Earth does? Someone didn’t like them a little too much, that’s all.",
+    "context": "Segment 85 in the sequence",
+    "emotion": {
+      "primary_emotion": "disdain",
+      "intensity": "medium",
+      "voice_modulation": "sarcastic, assertive"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Sure, but—",
+    "context": "Segment 86 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "There was the fire at the Los Angeles factories. There was the Berlin R-smashing. There were the riots in Shanghai.",
+    "context": "Segment 87 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "high",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "All right.",
+    "context": "Segment 88 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "It all points to rising discontent. Maybe to some sort of organization.",
+    "context": "Segment 89 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Commissioner, I don’t get this. Are you testing me for some reason?",
+    "context": "Segment 90 in the sequence",
+    "emotion": {
+      "primary_emotion": "confused",
+      "intensity": "medium",
+      "voice_modulation": "curious and slightly anxious"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "What?",
+    "context": "Segment 91 in the sequence",
+    "emotion": {
+      "primary_emotion": "confusion",
+      "intensity": "medium",
+      "voice_modulation": "curious, slightly raised pitch"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Three days ago a Spacer was murdered and the Spacers think the murderer is an Earthman. Till now, nothing’s come out. Is that right? Commissioner, that’s unbelievable. Jehoshaphat, Commissioner, a thing like this would blow New York off the face of the planet if it really happened.",
+    "context": "Segment 93 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "high",
+      "voice_modulation": "tense, emphatic"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "It’s not as simple as that. Look, Lije, I’ve been out three days. I’ve been in conference with the Mayor. I’ve been out to Spacetown. I’ve been down in Washington, talking to the Terrestrial Bureau of Investigation.",
+    "context": "Segment 94 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Oh? And what do the Terries have to say?",
+    "context": "Segment 95 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "inquisitive, slightly raised pitch"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "They say it’s our baby. It’s inside city limits. Spacetown is under New York jurisdiction.",
+    "context": "Segment 96 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "But with extraterritorial rights.",
+    "context": "Segment 97 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "steady"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "I know. I’m coming to that.",
+    "context": "Segment 98 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "steady"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "The Spacers can run the show.",
+    "context": "Segment 100 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "confident"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Wait a minute, Lije, don’t rush me. I’m trying to talk this over, friend to friend. I want you to know my position. I was there when the news broke. I had an appointment with him – with Roj Nemennuh Sarton.",
+    "context": "Segment 101 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "soft, deliberate"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "The victim?",
+    "context": "Segment 102 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "soft and inquisitive"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "The victim.",
+    "context": "Segment 103 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Five minutes more and I, myself, would have discovered the body. What a shock that would have been. As it was, it was brutal, brutal. They met me and told me. It started a three-day nightmare, Lije. That on top of having everything blur on me and having no time to replace my glasses for days. That won’t happen again, at least. I’ve ordered three pairs.",
+    "context": "Segment 105 in the sequence",
+    "emotion": {
+      "primary_emotion": "trauma",
+      "intensity": "high",
+      "voice_modulation": "tense, shaky"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "It’s a devil of a position. As you say, the Spacers have extraterritorial rights. They can insist on their own investigation, make whatever report they wish to their home governments. The Outer Worlds could use this as an excuse to pile on indemnity charges. You know how that would sit with the population.",
+    "context": "Segment 107 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "high",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "It would be political suicide for the White House to agree to pay.",
+    "context": "Segment 108 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "high",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "And another kind of suicide not to pay.",
+    "context": "Segment 109 in the sequence",
+    "emotion": {
+      "primary_emotion": "sad",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "You don’t have to draw me a picture.",
+    "context": "Segment 110 in the sequence",
+    "emotion": {
+      "primary_emotion": "frustration",
+      "intensity": "medium",
+      "voice_modulation": "assertive"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Then you see. Pay or not pay, it’s trouble. The only way out is to find the murderer on our own and hand him over to the Spacers. It’s up to us.",
+    "context": "Segment 112 in the sequence",
+    "emotion": {
+      "primary_emotion": "determined",
+      "intensity": "high",
+      "voice_modulation": "firm, urgent"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Why not give it to the TBI? Even if it is our jurisdiction from a legalistic viewpoint, there’s the question of interstellar relations—",
+    "context": "Segment 113 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "thoughtful"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "The TBI won’t touch it This is hot and it’s in our lap.",
+    "context": "Segment 114 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "high",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "And it’s not good, Lije. Every one of us stands the chance of being out of a job.",
+    "context": "Segment 116 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "high",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Replace us all? Nuts. The trained men to do it with don’t exist.",
+    "context": "Segment 117 in the sequence",
+    "emotion": {
+      "primary_emotion": "skeptical",
+      "intensity": "medium",
+      "voice_modulation": "firm, slightly sarcastic"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "R’s, they exist.",
+    "context": "Segment 118 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "What?",
+    "context": "Segment 119 in the sequence",
+    "emotion": {
+      "primary_emotion": "confusion",
+      "intensity": "medium",
+      "voice_modulation": "curious, slightly raised"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "R. Sammy is just a beginning. He runs errands. Others can patrol the expressways. Damn it man, I know the Spacers better than you do, and I know what they’re doing. There are R’s that can do your work and mine. We can be declassified. Don’t think differently. And at our age, to hit the labor pool …",
+    "context": "Segment 120 in the sequence",
+    "emotion": {
+      "primary_emotion": "frustrated",
+      "intensity": "high",
+      "voice_modulation": "tense, assertive"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "All right.",
+    "context": "Segment 121 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Sorry, Lije.",
+    "context": "Segment 123 in the sequence",
+    "emotion": {
+      "primary_emotion": "sad",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "When did all this replacement business come up?",
+    "context": "Segment 125 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "inquisitive"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Look, you’re being naïve, Lije. It’s been happening all along. It’s been happening for twenty-five years, ever since the Spacers came. You know that. It’s just beginning to reach higher, that’s all. If we muff this case, it’s a big, long step toward the point where we can stop looking forward to collecting our pension-tab booklets. On the other hand, Lije, if we handle the matter well, it can shove that point far into the future. And it would be a particular break for you.",
+    "context": "Segment 126 in the sequence",
+    "emotion": {
+      "primary_emotion": "concerned",
+      "intensity": "medium",
+      "voice_modulation": "urgent, persuasive"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "For me?",
+    "context": "Segment 127 in the sequence",
+    "emotion": {
+      "primary_emotion": "surprise",
+      "intensity": "medium",
+      "voice_modulation": "soft and inquisitive"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "You’ll be the operative in charge, Lije.",
+    "context": "Segment 128 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "steady"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "I don’t rate it, Commissioner. I’m a C-5, that’s all.",
+    "context": "Segment 129 in the sequence",
+    "emotion": {
+      "primary_emotion": "resigned",
+      "intensity": "medium",
+      "voice_modulation": "calm but slightly deflated"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "You want a C-6 rating, don’t you?",
+    "context": "Segment 130 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "inquisitive, slightly assertive"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "I want it. Sure. Why wouldn’t I? But what would I get if I couldn’t break the case?",
+    "context": "Segment 132 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Why wouldn’t you break it, Lije? You’re a good man. You’re one of the best we have.",
+    "context": "Segment 133 in the sequence",
+    "emotion": {
+      "primary_emotion": "encouraging",
+      "intensity": "medium",
+      "voice_modulation": "supportive, warm"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "But there are half a dozen men with higher ratings in my department section. Why should they be passed over?",
+    "context": "Segment 134 in the sequence",
+    "emotion": {
+      "primary_emotion": "frustration",
+      "intensity": "medium",
+      "voice_modulation": "assertive"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Two reasons. You’re not just another detective to me, Lije. We’re friends, too. I’m not forgetting we were in college together. Sometimes it may look as though I have forgotten, but that’s the fault of rating. I’m Commissioner, and you know what that means. But I’m still your friend and this is a tremendous chance for the right person. I want you to have it.",
+    "context": "Segment 136 in the sequence",
+    "emotion": {
+      "primary_emotion": "supportive",
+      "intensity": "medium",
+      "voice_modulation": "warm, reassuring"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "That’s one reason.",
+    "context": "Segment 137 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "The second reason is that I think you’re my friend. I need a favor.",
+    "context": "Segment 138 in the sequence",
+    "emotion": {
+      "primary_emotion": "hopeful",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "What sort of favor?",
+    "context": "Segment 139 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "I want you to take on a Spacer partner in this deal. That was the condition the Spacers made. They’ve agreed not to report the murder; they’ve agreed to leave the investigation in our hands. In return, they insist one of their own agents be in on the deal, the whole deal.",
+    "context": "Segment 140 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "steady, authoritative"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "It sounds like they don’t trust us altogether.",
+    "context": "Segment 141 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "tentative"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Surely you see their point. If this is mishandled, a number of them will be in trouble with their own governments. I’ll give them the benefit of the doubt, Lije. I’m willing to believe they mean well.",
+    "context": "Segment 142 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "measured and reassuring"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "I’m sure they do, Commissioner. That’s the trouble with them.",
+    "context": "Segment 143 in the sequence",
+    "emotion": {
+      "primary_emotion": "frustration",
+      "intensity": "medium",
+      "voice_modulation": "calm but firm"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Are you willing to take on a Spacer partner, Lije?",
+    "context": "Segment 145 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "inquisitive, steady"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "You’re asking that as a favor?",
+    "context": "Segment 146 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "inquisitive"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Yes, I’m asking you to take the job with all the conditions the Spacers have set up.",
+    "context": "Segment 147 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "steady"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "I’ll take a Spacer partner, Commissioner.",
+    "context": "Segment 148 in the sequence",
+    "emotion": {
+      "primary_emotion": "determined",
+      "intensity": "medium",
+      "voice_modulation": "confident"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Thanks, Lije. He’ll have to live with you.",
+    "context": "Segment 149 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Oh, now, hold on.",
+    "context": "Segment 150 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "soft, slightly raised"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "I know. I know. But you’ve got a large apartment, Lije. Three rooms. Only one child. You can put him up. He’ll be no trouble. No trouble at all. And it’s necessary.",
+    "context": "Segment 151 in the sequence",
+    "emotion": {
+      "primary_emotion": "urgent",
+      "intensity": "medium",
+      "voice_modulation": "persuasive, reassuring"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Jessie won’t like it. I know that.",
+    "context": "Segment 152 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "soft, hesitant"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "You tell Jessie, that if you do this for me, I’ll do what I can when this is all over to jump you a grade. C-7, Lije. C-7!",
+    "context": "Segment 153 in the sequence",
+    "emotion": {
+      "primary_emotion": "determined",
+      "intensity": "high",
+      "voice_modulation": "assertive, urgent"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "All right, Commissioner, it’s a deal.",
+    "context": "Segment 154 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "steady"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "There’s something else?",
+    "context": "Segment 156 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "One more item.",
+    "context": "Segment 158 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "calm"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Which is?",
+    "context": "Segment 159 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "The name of your partner.",
+    "context": "Segment 160 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "What difference does that make?",
+    "context": "Segment 161 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "inquisitive"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "The Spacers have peculiar ways. The partner they’re supplying isn’t – isn’t …",
+    "context": "Segment 162 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "tentative, hesitant"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Just a minute!",
+    "context": "Segment 163 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "urgent"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "You’ve got to, Lije. You’ve got to. There’s no way out.",
+    "context": "Segment 164 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "high",
+      "voice_modulation": "tense, urgent"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "Stay at my apartment? A thing like that?",
+    "context": "Segment 165 in the sequence",
+    "emotion": {
+      "primary_emotion": "surprised",
+      "intensity": "medium",
+      "voice_modulation": "curious and slightly incredulous"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "As a friend, please!",
+    "context": "Segment 166 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "No. No!",
+    "context": "Segment 167 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "high",
+      "voice_modulation": "tense, loud"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "Lije, I can’t trust anyone else in this. Do I have to spell it out for you? We’ve got to work with the Spacers. We’ve got to succeed, if we’re to keep the indemnity ships away from Earth. But we can’t succeed just any old way. You’ll be partnered with one of their R’s. If he breaks the case, if he can report that we’re incompetent, we’re ruined, anyway. We, as a department. You see that, don’t you? So you’ve got a delicate job on your hands. You’ve got to work with him, but see to it that you solve the case and not he. Understand?",
+    "context": "Segment 168 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "high",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "You mean co-operate with him 100 per cent, except that I cut his throat? Pat him on the back with a knife in my hand?",
+    "context": "Segment 169 in the sequence",
+    "emotion": {
+      "primary_emotion": "angry",
+      "intensity": "high",
+      "voice_modulation": "tense, sharp"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "What else can we do? There’s no other way out.",
+    "context": "Segment 170 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "tense"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "I don’t know what Jessie will say.",
+    "context": "Segment 172 in the sequence",
+    "emotion": {
+      "primary_emotion": "anxious",
+      "intensity": "medium",
+      "voice_modulation": "soft, uncertain"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "I’ll talk to her, if you want me to.",
+    "context": "Segment 173 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "medium",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "No, Commissioner.",
+    "context": "Segment 174 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "What’s my partner’s name?",
+    "context": "Segment 176 in the sequence",
+    "emotion": {
+      "primary_emotion": "curious",
+      "intensity": "medium",
+      "voice_modulation": "inquisitive"
+    }
+  },
+  {
+    "speaker": "Enderby",
+    "text": "R. Daneel Olivaw.",
+    "context": "Segment 177 in the sequence",
+    "emotion": {
+      "primary_emotion": "calm",
+      "intensity": "low",
+      "voice_modulation": "soft"
+    }
+  },
+  {
+    "speaker": "Baley",
+    "text": "This isn’t a time for euphemism, Commissioner. I’m taking the job, so let’s use his full name. Robot Daneel Olivaw.",
+    "context": "Segment 178 in the sequence",
+    "emotion": {
+      "primary_emotion": "assertive",
+      "intensity": "high",
+      "voice_modulation": "firm"
+    }
+  }
+]

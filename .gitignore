@@ -132,3 +132,4 @@ __pycache__/
 # API response cache files
 *.cache
 cache/
+.env
